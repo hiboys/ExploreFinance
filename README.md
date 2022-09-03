@@ -47,6 +47,10 @@
 
 阅读理由: 对公司机制进行体系理解，有助于深入理解资本市场。
 
+#### [GDP: A Brief but Affectionate History](https://www.amazon.com/GDP-Affectionate-History-Revised-expanded-ebook/dp/B00WAM16BS)
+
+阅读理由：GDP是一个非常年轻的概念。看起来是简单的数字，背后很复杂。了解GDP背后的历史，有助于我们了解一些本质的东西。
+
 ## 推荐书籍
 
 普通的浏览只是单向阅读。可以在阅读一个章节之前，想想**换做自己会怎么写**，再去阅读，效果会更佳。

@@ -13,3 +13,8 @@
 列提纲的话，使用短语，而不是完整的句子。
 
 一个章节的笔记最多半页纸。通过缩进，突出重要知识点。
+
+
+## Further Details Of the Method
+- Survey，only a minute
+- 

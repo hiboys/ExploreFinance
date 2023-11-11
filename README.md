@@ -65,6 +65,9 @@
 - [professional-forward-exchange-rate-quoted](economics/professional-forward-exchange-rate-quoted.md)
 - [covered-interest-rate-parity](economics/covered-interest-rate-parity.md)
 - [explain-two-alternative-forward-investment](economics/explain-two-alternative-forward-investment.md)
+- [when-domestic-currency-trade-at-forward-premium](economics/when-domestic-currency-trade-at-forward-premium.md)
+- [offset-of-higer-foreign-insterest-rate](economics/offset-of-higer-foreign-insterest-rate.md)
+- [if-foreign-currency-trade-at-forward-premium](economics/if-foreign-currency-trade-at-forward-premium.md)
 
 ### Financial Statement Analysis 
 

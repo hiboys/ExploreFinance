@@ -6,14 +6,14 @@ JPY/EUR, cross rate?
 
 **从做市商的角度出发考虑定价**，
 
-1.dealer: bid(A/C) <= market:ask(A/C)
->从套利者角度考虑
-如果bid(A/C)>ask(A/C), other借入A在市场买C，然后卖C给dealer得A来还给市场。
+做市商定价 dealer: bid(A/C) <= market:ask(A/C)
+>从套利者角度考虑套利：
+如果dealer:bid(A/C) > market:ask(A/C),券商定价普遍在市场之上，最小买价大于市场最大卖价。
+> 说明在市场C货币便宜(以较少的A可以买到C)。 other借入A在市场买C，然后卖C给dealer得A来还给市场。
 
-它定的卖价不能比市场的买价低，否则其他市场参与者，会从做市商以低价买入，在市场高价卖出套利。
-dealer: ask(A/C) >= market: bid(A/C) 
->从套利者考虑
-如果ask(A/C) < market: bid(A/C)
+做市商定价 dealer: ask(A/C) >= market: bid(A/C) 
+>从套利者考虑套利
+如果ask(A/C) < market: bid(A/C), 说明
 
 
 2.cross rate套利约束

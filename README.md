@@ -61,6 +61,7 @@
 - [trangle-arbitrage](economics/trangle-arbitrage.md)
 - [dealer-bid-constraints](economics/dealer-bid-constraints.md)
 - [dealer-ask-constraints](economics/dealer-ask-constraints.md)
+- [calculationg-forward-premium](economics/calculating-forward-premium.md)
 
 ### Financial Statement Analysis 
 

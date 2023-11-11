@@ -62,6 +62,9 @@
 - [dealer-bid-constraints](economics/dealer-bid-constraints.md)
 - [dealer-ask-constraints](economics/dealer-ask-constraints.md)
 - [calculationg-forward-premium](economics/calculating-forward-premium.md)
+- [professional-forward-exchange-rate-quoted](economics/professional-forward-exchange-rate-quoted.md)
+- [covered-interest-rate-parity](economics/covered-interest-rate-parity.md)
+- [explain-two-alternative-forward-investment](economics/explain-two-alternative-forward-investment.md)
 
 ### Financial Statement Analysis 
 

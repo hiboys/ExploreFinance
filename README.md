@@ -59,6 +59,8 @@
 - [buy-c-sell-a-cross-rate](economics/buy-c-sell-a-cross-rate.md)
 - [sell-c-buy-a-cross-rate](economics/sell-c-buy-a-cross-rate.md)
 - [trangle-arbitrage](economics/trangle-arbitrage.md)
+- [dealer-bid-constraints](economics/dealer-bid-constraints.md)
+- [dealer-ask-constraints](economics/dealer-ask-constraints.md)
 
 ### Financial Statement Analysis 
 

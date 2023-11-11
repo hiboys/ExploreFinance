@@ -50,7 +50,24 @@
 --- 
 
 ### Quantitative Methods 
-###
+
+### Economics
+
+### Financial Statement Analysis 
+
+### Corporate Issuers 
+
+### Equity Valuation 
+
+### Fixed Income 
+
+### Derivatives 
+
+### Alternative Investments 
+
+### Portfolio Management 
+
+### Ethical and Professional Standards 
 
 ## 2021年
 

@@ -53,6 +53,13 @@
 
 ### Economics
 
+- [bid-price](economics/bid-price.md)
+- [offer-price](economics/offer-price.md)
+- [bid-offer-equation](economics/bid-offer-equation.md)
+- [buy-c-sell-a-cross-rate](economics/buy-c-sell-a-cross-rate.md)
+- [sell-c-buy-a-cross-rate](economics/sell-c-buy-a-cross-rate.md)
+- [trangle-arbitrage](economics/trangle-arbitrage.md)
+
 ### Financial Statement Analysis 
 
 ### Corporate Issuers 

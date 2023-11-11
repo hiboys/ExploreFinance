@@ -32,6 +32,26 @@
 - ChatGPT
 - 跑步、游泳、健身
 
+---
+
+### Categories
+
+* [Quantitative Methods](#Quantitative-methods)
+* [Economics](#economics)
+* [Financial Statement Analysis](#financial-statement-analysis)
+* [Corporate Issuers](#corporate-issuers)
+* [Equity Valuation](#equity-valuation)
+* [Fixed Income](#fixed-income)
+* [Derivatives](#derivatives)
+* [Alternative Investments](#alternative-investments)
+* [Portfolio Management](#portfolio-management)
+* [Ethical and Professional Standards](#ethical-and-professional-standards)
+
+--- 
+
+### Quantitative Methods 
+###
+
 ## 2021年
 
 ### 在整知识

@@ -111,6 +111,7 @@
 - [focus-of-monetary-model-of-exchange-rate-determination](economics/focus-of-monetary-model-of-exchange-rate-determination.md)
 - [explain-monetary-model-of-exchange-rate](economics/explain-monetary-model-of-exchange-rate.md)
 - [modified-monetary-model-of-exchange-rate](economics/modified-monetary-model-of-exchange-rate.md)
+- [portfolio-balance-approach-of-exchange-rate](economics/portfolio-balance-balance-balance-of-exchange-rate.md)
 
 ### Financial Statement Analysis 
 

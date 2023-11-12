@@ -1,0 +1,2 @@
+- zero transaction cost
+- domestic and foreign money market instruments identical in terms of liquidation, maturity, and default risk.

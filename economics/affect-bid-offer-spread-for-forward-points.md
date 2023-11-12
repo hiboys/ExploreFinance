@@ -1,0 +1,3 @@
+- currency pair: market liquidation
+- transaction: size, relationship beween the client and dealer
+- *the terms of the forward contract*,influence the market and transaction(more details)

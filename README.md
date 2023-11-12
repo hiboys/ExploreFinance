@@ -68,7 +68,9 @@
 - [when-domestic-currency-trade-at-forward-premium](economics/when-domestic-currency-trade-at-forward-premium.md)
 - [offset-of-higer-foreign-insterest-rate](economics/offset-of-higer-foreign-insterest-rate.md)
 - [if-foreign-currency-trade-at-forward-premium](economics/if-foreign-currency-trade-at-forward-premium.md)
-- 
+- [calculate-market-to-market-value-of-forward-contract](economics/calculate-market-to-market-value-of-forward-contract.md)
+- [affect-bid-offer-spread-for-forward-points](economics/affect-bid-offer-spread-for-forward-points.md))
+- [covered-rate-parity-hold-assuming](economics/covered-rate-parity-hold-assuming.md)
 
 ### Financial Statement Analysis 
 

@@ -88,6 +88,10 @@
 - [explain-real-interest-rate-parity](economics/explain-real-interest-rate-parity.md)
 - [explain-international-fisher-effect](economics/explain-international-fisher-effect.md)
 - [international-fisher-effect-assuming](economics/international-fisher-effect-assuming.md)
+- [expected-percentage-change-in-the-spot-exchange-rate](economics/expected-percentage-change-in-the-spot-exchange-rate.md)
+- [uncovered-rate-parity-and-carry-trade](economics/uncovered-rate-parity-and-carry-trade.md)
+- [explain-carry-trade-return](economics/explain-carry-trade-return.md)
+- [country-balance-payments-consists](economics/country-balance-payments-consists.md)
 - []
 
 ### Financial Statement Analysis 

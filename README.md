@@ -68,6 +68,7 @@
 - [when-domestic-currency-trade-at-forward-premium](economics/when-domestic-currency-trade-at-forward-premium.md)
 - [offset-of-higer-foreign-insterest-rate](economics/offset-of-higer-foreign-insterest-rate.md)
 - [if-foreign-currency-trade-at-forward-premium](economics/if-foreign-currency-trade-at-forward-premium.md)
+- 
 
 ### Financial Statement Analysis 
 

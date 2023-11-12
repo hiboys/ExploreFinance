@@ -112,6 +112,9 @@
 - [explain-monetary-model-of-exchange-rate](economics/explain-monetary-model-of-exchange-rate.md)
 - [modified-monetary-model-of-exchange-rate](economics/modified-monetary-model-of-exchange-rate.md)
 - [portfolio-balance-approach-of-exchange-rate](economics/portfolio-balance-balance-balance-of-exchange-rate.md)
+- [capital-inflows-pull-factors](economics/capital-inflows-pull-factors.md)
+- [capital-inflows-push-factors](economics/capital-inflows-push-factors.md)
+- [objectives-of-government-intervention](economics/objectives-of-government-intervention.md)
 
 ### Financial Statement Analysis 
 

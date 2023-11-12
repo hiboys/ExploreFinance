@@ -1,0 +1,3 @@
+- preventing currencies from appreciating too strongly.
+- reducing the aggregate volume of capital inflows.
+- enabling monetary authorities to pursue independent monetary policies.

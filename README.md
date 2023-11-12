@@ -106,6 +106,11 @@
 - [expansionary-fiscal-policy-and-immobile-capital](economics/expansionary-fiscal-policy-and-immobile-capital.md)
 - [restrictive-monetary-policy-and-expansionary-fiscal-policy-in-high-mobility](economics/restrictive-monetary-policy-and-expansionary-fiscal-policy-in-high-mobility.md)
 - [expansionary-monetary-policy-and-restrictive-fiscal-policy-in-high-mobility](economics/expansionary-monetary-policy-and-restrictive-fiscal-policy-in-high-mobility.md)
+- [expansionary-fiscal-and-monetary-and-immobile-capital](economics/expansionary-fiscal-policy-and-immobile-capital.md)
+- [restrictive-fiscal-and-monetary-and-immobile-capital](economics/restrictive-fiscal-policy.md)
+- [focus-of-monetary-model-of-exchange-rate-determination](economics/focus-of-monetary-model-of-exchange-rate-determination.md)
+- [explain-monetary-model-of-exchange-rate](economics/explain-monetary-model-of-exchange-rate.md)
+- [modified-monetary-model-of-exchange-rate](economics/modified-monetary-model-of-exchange-rate.md)
 
 ### Financial Statement Analysis 
 

@@ -92,7 +92,10 @@
 - [uncovered-rate-parity-and-carry-trade](economics/uncovered-rate-parity-and-carry-trade.md)
 - [explain-carry-trade-return](economics/explain-carry-trade-return.md)
 - [country-balance-payments-consists](economics/country-balance-payments-consists.md)
-- []
+- [flow-supply-demand-channel-simple-model](economics/flow-demand-channel-simple-model.md)
+- [flow-supply-demand-channel-in-long-run](economics/flow-demand-demand-channel-in-long-run.md)
+- [portfolio-balance-channel](economics/portfolio-balance-channel.md)
+- [debt-sustainability-channel-model](economics/debt-sustainability-channel-model.md)
 
 ### Financial Statement Analysis 
 

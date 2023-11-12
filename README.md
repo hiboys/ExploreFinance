@@ -80,6 +80,10 @@
 - [uncovered-rate-parity-and-shift-capital](economics/uncovered-rate-parity-and-shift-capital.md)
 - [explain-foreign-rate-is-unbiased-forwad-spot-rate](economics/explain-foreign-rate-is-unbiased-forwad-spot-rate.md)
 - [how-might-uncovered-rate-parity-be-enforced](economics/how-might-uncovered-rate-parity-be-enforced.md)
+- [absolute-ppp](economics/absolute-ppp.md)
+- [absolute-ppp-assuming](economics/absolute-ppp-assuming.md)
+- [relative-ppp](economics/relative-ppp.md)
+- [offset-higher-inflation](economics/offset-higher-inflation.md)
 
 ### Financial Statement Analysis 
 

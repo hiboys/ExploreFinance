@@ -96,7 +96,11 @@
 - [flow-supply-demand-channel-in-long-run](economics/flow-demand-demand-channel-in-long-run.md)
 - [portfolio-balance-channel](economics/portfolio-balance-channel.md)
 - [debt-sustainability-channel-model](economics/debt-sustainability-channel-model.md)
-- [relationship-between-debt-level-and-long-run-currency]-equilibrium-value](economics/relationship-between-debt-level-and-long-run-equilibrium-value.md))
+- [relationship-between-debt-level-and-long-run-currency-equilibrium-value](economics/relationship-between-debt-level-and-long-run-equilibrium-value.md))
+- [how-capital-account-influence-exchange-rate](economics/how-capital-account-influence-exchange-rate.md)
+- [equity-market-trends-and-exchange-rate](economics/equity-market-trends-and-exchange-rate.md)
+- [purpose-of-mundell-fleming-model](economics/purpose-of-mundell-fleming-model.md)
+- [focus-of-mundell-fleming-model](economics/focus-of-mundell-fleming.md)
 
 ### Financial Statement Analysis 
 

@@ -72,6 +72,9 @@
 - [affect-bid-offer-spread-for-forward-points](economics/affect-bid-offer-spread-for-forward-points.md))
 - [covered-rate-parity-hold-assuming](economics/covered-rate-parity-hold-assuming.md)
 - [uncovered-rate-parity-transact-assuming](economics/uncovered-rate-parity-transact-assuming.md)
+- [uncovered-rate-parity-investor-choise](economics/uncovered-rate-parity-investor-choise.md)
+- [how-uncovered-rate-parity-investor-choise](economics/how-uncovered-rate-parity-investor-choise.md))
+- [simple-calculate-uncovered-rate-parity-foreign-investment-return](economics/simple-calculate-uncovered-rate-parity-foreign-investment-return.md))
 
 ### Financial Statement Analysis 
 

@@ -75,6 +75,11 @@
 - [uncovered-rate-parity-investor-choise](economics/uncovered-rate-parity-investor-choise.md)
 - [how-uncovered-rate-parity-investor-choise](economics/how-uncovered-rate-parity-investor-choise.md))
 - [simple-calculate-uncovered-rate-parity-foreign-investment-return](economics/simple-calculate-uncovered-rate-parity-foreign-investment-return.md))
+- [uncovered-rate-parity-risk-neutral-assuming](economics/uncovered-rate-parity-risk-neutral-assuming.md)
+- [relationship-between-foreign-yield-spread-and-domestic-currency-strength](economics/relationship-between-foreign-yield-spread-and-domestic-currency-strength.md))
+- [uncovered-rate-parity-and-shift-capital](economics/uncovered-rate-parity-and-shift-capital.md)
+- [explain-foreign-rate-is-unbiased-forwad-spot-rate](economics/explain-foreign-rate-is-unbiased-forwad-spot-rate.md)
+- [how-might-uncovered-rate-parity-be-enforced](economics/how-might-uncovered-rate-parity-be-enforced.md)
 
 ### Financial Statement Analysis 
 

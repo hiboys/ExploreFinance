@@ -1,0 +1,1 @@
+if parity held at all time, the investors would have no incentive to shift capital.

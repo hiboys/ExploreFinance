@@ -1,4 +1,4 @@
-做市商有利的ask定价
+how-might-uncovered-rate-parity-be-enforced.md做市商有利的ask定价
 >dealer:ask(A/C) > market:bid(A/C)。 
 > 假设你买C，做市商以低价从市场买C，高价卖你，赚A。
 

@@ -1,0 +1,1 @@
+uncoverd rate parity assumes that the country with a higer interest rate on money will see its currency deprecate.

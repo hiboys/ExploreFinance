@@ -101,6 +101,11 @@
 - [equity-market-trends-and-exchange-rate](economics/equity-market-trends-and-exchange-rate.md)
 - [purpose-of-mundell-fleming-model](economics/purpose-of-mundell-fleming-model.md)
 - [focus-of-mundell-fleming-model](economics/focus-of-mundell-fleming.md)
+- [expansionary-monetary-policy-of-mundell-fleming-model](economics/expansionary-monetary-policy-of-mundell-fleming-model.md)
+- [expansionary-fiscal-policy-of-mundell-fleming-model](economics/expansionary-fiscal-policy-of-mundell-fleming-model.md)
+- [expansionary-fiscal-policy-and-immobile-capital](economics/expansionary-fiscal-policy-and-immobile-capital.md)
+- [restrictive-monetary-policy-and-expansionary-fiscal-policy-in-high-mobility](economics/restrictive-monetary-policy-and-expansionary-fiscal-policy-in-high-mobility.md)
+- [expansionary-monetary-policy-and-restrictive-fiscal-policy-in-high-mobility](economics/expansionary-monetary-policy-and-restrictive-fiscal-policy-in-high-mobility.md)
 
 ### Financial Statement Analysis 
 

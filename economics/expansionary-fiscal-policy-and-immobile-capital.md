@@ -1,0 +1,1 @@
+the policy increase in *aggregate demand*, more imports, create down pressure on domestic currency.

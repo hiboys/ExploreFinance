@@ -84,6 +84,11 @@
 - [absolute-ppp-assuming](economics/absolute-ppp-assuming.md)
 - [relative-ppp](economics/relative-ppp.md)
 - [offset-higher-inflation](economics/offset-higher-inflation.md)
+- [ex-ante-ppp](economics/ex-ante-ppp.md)
+- [explain-real-interest-rate-parity](economics/explain-real-interest-rate-parity.md)
+- [explain-international-fisher-effect](economics/explain-international-fisher-effect.md)
+- [international-fisher-effect-assuming](economics/international-fisher-effect-assuming.md)
+- []
 
 ### Financial Statement Analysis 
 

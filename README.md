@@ -96,6 +96,7 @@
 - [flow-supply-demand-channel-in-long-run](economics/flow-demand-demand-channel-in-long-run.md)
 - [portfolio-balance-channel](economics/portfolio-balance-channel.md)
 - [debt-sustainability-channel-model](economics/debt-sustainability-channel-model.md)
+- [relationship-between-debt-level-and-long-run-currency]-equilibrium-value](economics/relationship-between-debt-level-and-long-run-equilibrium-value.md))
 
 ### Financial Statement Analysis 
 

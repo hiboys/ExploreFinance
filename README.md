@@ -115,6 +115,9 @@
 - [capital-inflows-pull-factors](economics/capital-inflows-pull-factors.md)
 - [capital-inflows-push-factors](economics/capital-inflows-push-factors.md)
 - [objectives-of-government-intervention](economics/objectives-of-government-intervention.md)
+- [effectiveness-of-intervention-and-capital-controls](economics/effectiveness-of-intervention-and-capital-controls.md)
+- [warning-signs-of-a-currency-crisis-1](economics/warning-signs-of-a-currency-crisis-1.md)
+- [warning-signs-of-a-currency-crisis-2](economics/warning-signs-of-a-currency-crisis-2.md)
 
 ### Financial Statement Analysis 
 

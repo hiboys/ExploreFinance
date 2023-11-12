@@ -1,0 +1,2 @@
+- developed countries, ineffective
+- emerging countries, effective if have reserves.

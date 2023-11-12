@@ -118,6 +118,7 @@
 - [effectiveness-of-intervention-and-capital-controls](economics/effectiveness-of-intervention-and-capital-controls.md)
 - [warning-signs-of-a-currency-crisis-1](economics/warning-signs-of-a-currency-crisis-1.md)
 - [warning-signs-of-a-currency-crisis-2](economics/warning-signs-of-a-currency-crisis-2.md)
+- [warning-signs-of-a-currency-crisis-3](economics/warning-signs-of-a-currency-crisis-3.md)
 
 ### Financial Statement Analysis 
 

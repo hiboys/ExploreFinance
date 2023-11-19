@@ -5,4 +5,4 @@
 [[dealer-ask-constraints]]
 
 综上所述，dealer理想定价：
-market:bid(A/C) < dealer:bid(A/C)  < dealer:ask(A/C) < market:ask(A/C)
+market:bid(A/C) < dealer:bid(A/C)  < dealer:ask(A/C) < market:ask(A/C)吃

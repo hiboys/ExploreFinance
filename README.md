@@ -49,7 +49,7 @@
 
 --- 
 
-### Quantitative Methods 
+### Quantitative Methods
 
 ### Economics
 
@@ -120,11 +120,11 @@
 - [warning-signs-of-a-currency-crisis-2](economics/warning-signs-of-a-currency-crisis-2.md)
 - [warning-signs-of-a-currency-crisis-3](economics/warning-signs-of-a-currency-crisis-3.md)
 
-### Financial Statement Analysis 
+### Financial Statement Analysis
 
-### Corporate Issuers 
+### Corporate Issuers
 
-### Equity Valuation 
+### Equity Valuation
 
 #### Free Cash Flow Valuation
 
@@ -156,15 +156,32 @@
 - [two-stage-fcf-models](equity-valuation/two-stage-fcf-models.md)
 - [three-stage-free-cash-flow-models](equity-valuation/three-stage-free-cash-models.md)
 - [non-oprating-assets-and-firm-value](equity-valuation/non-oprating-assets-and-firm-value.md)
-### Fixed Income 
 
-### Derivatives 
+#### Market-Based Valuation: Price and Enterprise Value Multiples
 
-### Alternative Investments 
+- [introduction-to-market-based-valuation](equity-valuation/introduction-to-market-based-valuation.md)
+- [method-of-comparables](equity-valuation/method-of-comparables.md)
+- [method-based-on-forecasted-fundamentals](equity-valuation/method-based-on-forecasted-fundamentals.md)
+- [justified-price-multiple](equity-valuation/justified-price-multiple.md)
+- [rationals-supoort-PE-multiples](equity-valuation/rationals-supoort-PE-multiples.md)
+- [drawbacks-of-using-PE](equity-valuation/drawbacks-of-using-PE.md)
+- [alternative-definitions-of-PE](equity-valuation/alternative-definitions-of-PE.md)
+- [calculating-trailing-PE](equity-valuation/calculating-trailing-PE.md)
+- [calculating-forward-PE](equity-valuation/calculating-forward-PE.md)
+- [predicted-PE-based-on-cross-sectional-regression](equity-valuation/predicted-PE-based-on-cross-sectional-regression.md)
+- [using-PE-in-valuation](equity-valuation/using-PE-in-valuation.md)
+- [peer-company-multiples](equity-valuation/peer-company-multiples.md)
+- [PEG-ratio](equity-valuation/PEG-ratio.md)
 
-### Portfolio Management 
+### Fixed Income
 
-### Ethical and Professional Standards 
+### Derivatives
+
+### Alternative Investments
+
+### Portfolio Management
+
+### Ethical and Professional Standards
 
 ### 读书笔记
 
@@ -188,11 +205,13 @@
 - [枯燥的功利主义](读书笔记/枯燥的功利主义.md)
 - [爱与长生](读书笔记/爱与长生.md)
 - [中国人的三不朽](读书笔记/中国人的三不朽.md)
+
 #### 沟通方法
 
 - [利益的种类](沟通方法/利益的种类.md)
 
 ---
+
 - [沟通就是互动](沟通方法/沟通就是互动.md)
 - [无目的的沟通](沟通方法/无目的的沟通.md)
 - [沟通不可复制](沟通方法/沟通不可复制.md)
@@ -203,12 +222,14 @@
 - [自我表露](沟通方法/自我表露.md)
 - [内在鼓励](沟通方法/内在鼓励.md)
 
---- 
+---
+
 - [不是所有沟通都在追求理解](沟通方法/不是所有沟通都在追求理解.md)
 - [沟通不是越多越好](沟通方法/沟通不是越多越好.md)
 - [清境差异下的沟通能力](沟通方法/清境差异下的沟通能力.md)
 
 ---
+
 - [刻板印象](沟通方法/刻板印象.md)
 - [刻板印象和认知一致性](沟通方法/刻板印象和认知一致性.md)
 - [避免刻板冲突](沟通方法/避免刻板冲突.md)
@@ -225,12 +246,14 @@
 - [假设别人和自己一样](沟通方法/假设别人和自己一样.md)
 
 ___
+
 - [知觉核验](沟通方法/知觉核验.md)
 - [选择沟通的最佳方案](沟通方法/选择沟通的最佳方案.md)
 - [煤气灯效应](沟通方法/煤气灯效应.md)
 - [同理心的三个维度](沟通方法/同理心的三个维度.md)
 
 ---
+
 - [沟通氛围](沟通方法/沟通氛围.md)
 - [肯定的沟通](沟通方法/肯定的沟通.md)
 - [信息肯定的层级](沟通方法/信息肯定的层级.md)
@@ -240,6 +263,7 @@ ___
 - [防卫](沟通方法/防卫.md)
 
 ---
+
 - [评价](沟通方法/评价.md)
 - [描述](沟通方法/描述.md)
 - [支配导向](沟通方法/支配导向.md)
@@ -251,6 +275,7 @@ ___
 - [确定和协商](沟通方法/确定和协商.md)
 
 ---
+
 - [冲突的定义](沟通方法/冲突的定义.md)
 - [表达出来的冲突](沟通方法/表达出来的冲突.md)
 - [冲突双方的互相依赖](沟通方法/冲突双方的互相依赖.md)
@@ -268,6 +293,7 @@ ___
 - [破坏性的冲突模式](沟通方法/破坏性的冲突模式.md)
 
 ---
+
 - [tact fileter](沟通方法/tact-fileter.md)
 
 #### 杜威经典教育论集
@@ -280,7 +306,9 @@ ___
 - [笨拙](读书笔记/笨拙.md)
 - [心智的含义](读书笔记/心智的含义.md)
 - [心智训练](读书笔记/心智训练.md)
+
 ---
+
 - [经验的性质](读书笔记/经验的性质.md)
 - [从经验中学习](读书笔记/从经验中学习.md)
 - [学生定义](读书笔记/学生定义.md)
@@ -294,9 +322,13 @@ ___
 - [思维的价值](读书笔记/思维的价值.md)
 - [希腊人的进退两难](读书笔记/希腊人的进退两难.md)
 - [思维和经验之间的关系](读书笔记/思维和经验之间的关系.md)
+
 ---
+
 - [人本学习的定义](读书笔记/人本学习的定义.md)
+
 ---
+
 - [自然观念背后的宗教含义](读书笔记/自然观念背后的宗教含义.md)
 - [自然发展作为教育目的](读书笔记/自然发展作为教育目的.md)
 - [人为造作](读书笔记/人为造作.md)
@@ -312,7 +344,9 @@ ___
 - [精神文化](读书笔记/精神文化.md)
 - [理解效率和文化等同的基础](读书笔记/理解效率和文化等同的基础.md)
 - [教育的特殊任务](读书笔记/教育的特殊任务.md)
+
 ---
+
 - [心理状态的特点](读书笔记/心理状态的特点.md)
 - [受阻建立的空中楼阁](读书笔记/受阻建立的空中楼阁.md)
 - [内在道德](读书笔记/内在道德.md)
@@ -323,7 +357,9 @@ ___
 - [兴趣和自我分开](读书笔记/兴趣和自我分开.md)
 - [自我和兴趣统一](读书笔记/自我和兴趣统一.md)
 - [自我调整的危机](读书笔记/自我调整的危机.md)
+
 ---
+
 - [柏拉图对知识的理解](读书笔记/柏拉图对知识的理解.md)
 - [道德知识](读书笔记/道德知识.md)
 - [道德品质](读书笔记/道德品质.md)
@@ -341,7 +377,7 @@ ___
 
 阅读理由: 对公司机制进行体系理解，有助于深入理解资本市场。
 
-#### [GDP: A Brief but Affectionate History](https://www.amazon.com/GDP-Affectionate-History-Revised-expanded-ebook/dp/B00WAM16BS)
+#### [GDP: A Brief but Affectionate History](https://www.amazon.com/GDP-Affectionate-History-Revised-expanded-ebook/dp/B00WAM16BS)
 
 阅读理由：GDP是一个非常年轻的概念。看起来是简单的数字，背后很复杂。了解GDP背后的历史，有助于我们了解一些本质的东西。
 
@@ -351,12 +387,15 @@ ___
 
 ### [财富的逻辑](https://book.douban.com/subject/30293885/)
 
-推荐理由：2021 年**共同富裕**重新成为时代主题，那么共同富裕背后的财富逻辑是什么？著名经济学家陈志武教授在书中向你慢慢阐明。
+推荐理由：2021
+年**共同富裕**重新成为时代主题，那么共同富裕背后的财富逻辑是什么？著名经济学家陈志武教授在书中向你慢慢阐明。
 
 你还可以从中体会到金融市场对做大蛋糕的重要性、制度的重要性等，重塑你对金融底层操作系统的认识。
 
 ### [经济运行的逻辑](https://weread.qq.com/web/reader/2dd321205c520b2dd1acb86)
 
 推荐理由：如果单独学经济学原理，知识零散，枯燥乏味。高博这本书，把很多零散的经济学概念、原理、宏观经济数据指标串联到了一起，以严密的逻辑，对中国经济增长历史数据展开分析，值得一读。
-我读此书的过程，做了思维导图，Excel 案例分析，并收集了不少网上的宏观数据资源，收获不少。
--
+我读此书的过程，做了思维导图，Excel
+案例分析，并收集了不少网上的宏观数据资源，收获不少。
+- 
+

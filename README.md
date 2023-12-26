@@ -172,6 +172,11 @@
 - [using-PE-in-valuation](equity-valuation/using-PE-in-valuation.md)
 - [peer-company-multiples](equity-valuation/peer-company-multiples.md)
 - [PEG-ratio](equity-valuation/PEG-ratio.md)
+- [industry-and-sector-multiples](equity-valuation/industry-and-sector-multiples.md)
+- [overall-market-multiples](equity-valuation/overall-market-multiples.md)
+- [own-historical-PE](equity-valuation/own-historical-PE.md)
+- [PE-in-cross-country-comparisons](equity-valuation/PE-in-cross-country-comparisons.md)
+- [using-PE-obtain-terminal-value-in-MDCM](equity-valuation/using-PE-obtain-terminal-value-in-MDCM.md)
 
 ### Fixed Income
 

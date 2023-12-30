@@ -181,6 +181,11 @@
 - [determining-book-value](equity-valuation/determining-book-value.md)
 - [valuation-based-on-forecasted-fundamentals](equity-valuation/valuation-based-on-forecasted-fundamentals.md)
 - [PB-comparables-approach](equity-valuation/PB-comparables-approach.md)
+---
+- [introduce-to-PS](equity-valuation/introduce-to-PS.md)
+- [determing-sales](equity-valuation/determing-sales.md)
+- [ps-valuation-based-on-forecasted-fundamentals](equity-valuation/ps-valuation-based-on-forecasted-fundamentals.md)
+- [ps-valuation-based-on-comparables](equity-valuation/ps-valuation-based-on-comparables.md)
 ### Fixed Income
 
 ### Derivatives

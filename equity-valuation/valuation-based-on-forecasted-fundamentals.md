@@ -7,15 +7,17 @@ P/B = ROE * (1 - b) / (r - g) = (ROE - g) / (r - g)
 - ROE和EPS，B有关系。
 - ROE和g有关系。
 
+ROE是justified P/B的关键。
+
 如果g=0，P/B = ROE / r。
 如果两只股票有相同的P/B，在其他都不变的情况下，ROE越高，相对低估。
 
 ### justified P/B Expression Based on Residual Income
 
-P/B = (ROE - g) / (r - g) = [(ROE-g)+r-r]/(r-g)  
- = [(r-g)+(ROE-r)]/(r-g)  
+P/B = (ROE - g) / (r - g) = \[(ROE-g)+r-r]/(r-g)  
+ = \[(r-g)+(ROE-r)]/(r-g)  
  = 1 + (ROE-r)/(r-g)  
- = 1 + [(ROE-r)*B/(r-g)]/B
+ = 1 + \[(ROE-r)*B/(r-g)]/B
  (ROE-r)*B/(r-g) = expected RI present value
 
 P/B和预期留存收益之间的关系。

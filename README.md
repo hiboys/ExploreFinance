@@ -138,9 +138,6 @@
 - [equity-value](equity-valuation/equity-value.md)
 - [wacc](equity-valuation/wacc.md)
 - [constant-growth-fcff](equity-valuation/constant-growth-fcff.md)
-
----
-
 - [computing-fcff-from-netincome](equity-valuation/computing-fcff-from-netincome.md)
 - [computing-fcff-from-statement-of-cashflows](equity-valuation/computing-fcff-from-statement-of-cashflows.md)
 - [additional-consideration-fcff](equity-valuation/additional-consideration-fcff.md)
@@ -178,6 +175,12 @@
 - [PE-in-cross-country-comparisons](equity-valuation/PE-in-cross-country-comparisons.md)
 - [using-PE-obtain-terminal-value-in-MDCM](equity-valuation/using-PE-obtain-terminal-value-in-MDCM.md)
 
+---
+- [introduce-to-PB](equity-valuation/introduce-to-PB.md)
+- [differences-in-business-model-reflected-in-differences-in-PB](equity-valuation/differences-in-business-model-reflected-in-differences-in-PB.md)
+- [determining-book-value](equity-valuation/determining-book-value.md)
+- [valuation-based-on-forecasted-fundamentals](equity-valuation/valuation-based-on-forecasted-fundamentals.md)
+- [PB-comparables-approach](equity-valuation/PB-comparables-approach.md)
 ### Fixed Income
 
 ### Derivatives

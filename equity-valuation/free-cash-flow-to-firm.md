@@ -12,7 +12,7 @@ and need investments in *working capital* and *fixed capital* have been made(再
 
 ## 联想发散
 
-- [ ]  FCFF=CFO - capital expenditures
+- [ ]  FCFF=CFO - [capital expenditures](https://www.wallstreetprep.com/knowledge/capital-expenditure-capex/)
 
 ## 任何疑问
 

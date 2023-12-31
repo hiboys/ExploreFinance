@@ -190,7 +190,8 @@
 - [introduce-to-PCF](equity-valuation/introduce-to-PCF.md)
 - [determining-cash-flow](equity-valuation/determining-cash-flow.md)
 ---
-- [instroduce-to-dividend-yield](equity-valuation/instroduce-to-dividend-yield.md)
+- [introduce-to-dividend-yield](equity-valuation/introduce-to-dividend-yield.md)
+---
 ### Fixed Income
 
 ### Derivatives

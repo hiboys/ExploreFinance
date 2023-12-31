@@ -186,6 +186,9 @@
 - [determing-sales](equity-valuation/determing-sales.md)
 - [ps-valuation-based-on-forecasted-fundamentals](equity-valuation/ps-valuation-based-on-forecasted-fundamentals.md)
 - [ps-valuation-based-on-comparables](equity-valuation/ps-valuation-based-on-comparables.md)
+---
+- [introduce-to-PCF](equity-valuation/introduce-to-PCF.md)
+- [determining-cash-flow](equity-valuation/determining-cash-flow.md)
 ### Fixed Income
 
 ### Derivatives

@@ -2,6 +2,9 @@
 
 ## 核心概念
 FCFF = NI + NCC + Int(1 - Tax rate) - FCInv - WCInv
+
+### net working capital
+[net working capital](https://www.wallstreetprep.com/knowledge/change-in-net-working-capital-nwc/)
 ## 金句收集
 
 ## 故事案例
@@ -17,8 +20,8 @@ FCFF = NI + NCC + Int(1 - Tax rate) - FCInv - WCInv
 ## 任何疑问
 - 为什么加回税后利息费用
 - 如果有优先股分红，处理方式是否合税后利息一样
-- 为什么working capital的计算要排除现金和现金等价物
-- 为什么working capital的计算要排除应付票据和长期债务的流动负债部分
+- 为什么working capital的计算要排除现金和现金等价物（投资活动）
+- 为什么working capital的计算要排除应付票据和长期债务的流动负债部分（融资活动）
 ## 洞见时刻
 
 ## 情绪感受

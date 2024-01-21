@@ -193,6 +193,11 @@
 - [introduce-to-dividend-yield](equity-valuation/introduce-to-dividend-yield.md)
 ---
 - [introduce-enterprise-value-to-EBITDA](equity-valuation/introduce-enterprise-value-to-EBITDA.md)
+- [other-enterprise-value-multiples](equity-valuation/other-enterprise-value-multiples.md)
+- [international-considerations-when-using-multiples](equity-valuation/international-considerations-when-using-multiples.md)
+- [momentum-valuation-indicators](equity-valuation/momentum-valuation-indicators.md)
+- [averaging-multiples-harmonic-mean](equity-valuation/averaging-multiples-harmonic-mean.md)
+- [using-multiple-valuation-indicators](equity-valuation/using-multiple-valuation-indicators.md)
 ### Fixed Income
 
 ### Derivatives

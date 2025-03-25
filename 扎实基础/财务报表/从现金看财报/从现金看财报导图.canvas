@@ -1,13 +1,19 @@
 {
 	"nodes":[
-		{"id":"8ac0c1f3ae9c8ef0","type":"text","text":"从现金看财报\n","x":-126,"y":20,"width":250,"height":60},
 		{"id":"216d2b8f74fd2b16","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看投资活动.md","x":-201,"y":160,"width":400,"height":120},
 		{"id":"74a261d5c6774b34","type":"file","file":"扎实基础/财务报表/从现金看财报/战略型投资活动.md","x":-401,"y":380,"width":400,"height":220},
-		{"id":"eb3db19a52379307","type":"file","file":"扎实基础/财务报表/从现金看财报/理财型投资活动.md","x":60,"y":380,"width":400,"height":220}
+		{"id":"eb3db19a52379307","type":"file","file":"扎实基础/财务报表/从现金看财报/理财型投资活动.md","x":60,"y":380,"width":400,"height":220},
+		{"id":"371613a54f944cd6","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看战略型投资活动的价值.md","x":-401,"y":740,"width":400,"height":260},
+		{"id":"2d3f285ccb16089f","type":"text","text":"从现金看筹资活动","x":335,"y":160,"width":250,"height":60},
+		{"id":"8ac0c1f3ae9c8ef0","type":"text","text":"从现金看财报\n","x":74,"y":-80,"width":250,"height":60},
+		{"id":"ed26b865101947e1","type":"file","file":"扎实基础/财务报表/从现金看财报/筹资活动分类.md","x":520,"y":380,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"2f66a66125f9cf11","fromNode":"8ac0c1f3ae9c8ef0","fromSide":"bottom","toNode":"216d2b8f74fd2b16","toSide":"top"},
 		{"id":"3b611c221963a4ed","fromNode":"216d2b8f74fd2b16","fromSide":"bottom","toNode":"74a261d5c6774b34","toSide":"top"},
-		{"id":"3ffe8e5e0fa41eaa","fromNode":"216d2b8f74fd2b16","fromSide":"bottom","toNode":"eb3db19a52379307","toSide":"top"}
+		{"id":"3ffe8e5e0fa41eaa","fromNode":"216d2b8f74fd2b16","fromSide":"bottom","toNode":"eb3db19a52379307","toSide":"top"},
+		{"id":"c2ca0a7f413a121b","fromNode":"74a261d5c6774b34","fromSide":"bottom","toNode":"371613a54f944cd6","toSide":"top"},
+		{"id":"7c63d6b2ce42557e","fromNode":"8ac0c1f3ae9c8ef0","fromSide":"bottom","toNode":"2d3f285ccb16089f","toSide":"top"},
+		{"id":"dbc69ad7673abd08","fromNode":"2d3f285ccb16089f","fromSide":"bottom","toNode":"ed26b865101947e1","toSide":"top"}
 	]
 }

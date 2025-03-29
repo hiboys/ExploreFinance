@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"15730942ef670b66","x":603,"y":-219,"width":250,"height":60,"type":"file","file":"扎实基础/财务报表/从现金看财报/商誉转换现金.md"},
+		{"id":"03f6dd262ea0eadb","type":"file","file":"扎实基础/财务报表/从现金看财报/长期待摊费用.md","x":-615,"y":-410,"width":250,"height":60},
+		{"id":"9f183739cdb642cb","type":"file","file":"扎实基础/财务报表/从现金看财报/如何防范商誉暴雷.md","x":531,"y":-715,"width":250,"height":60},
+		{"id":"c9645566c94cee88","type":"file","file":"扎实基础/财务报表/从现金看财报/商誉收不回现金的处理.md","x":541,"y":-556,"width":250,"height":60},
+		{"id":"15730942ef670b66","type":"file","file":"扎实基础/财务报表/从现金看财报/商誉转换现金.md","x":603,"y":-219,"width":250,"height":60},
 		{"id":"3ad882371f6e50c4","type":"file","file":"扎实基础/财务报表/从现金看财报/商誉的定义.md","x":535,"y":-380,"width":250,"height":60},
 		{"id":"c4f2ac4710c1a910","type":"file","file":"扎实基础/财务报表/从现金看财报/如何防范开发支出和无形资产暴雷.md","x":660,"y":-78,"width":250,"height":60},
 		{"id":"d0a145d1116f3c9b","type":"file","file":"扎实基础/财务报表/从现金看财报/收不回现金的开发支出和无形资产.md","x":660,"y":80,"width":250,"height":60},
@@ -8,7 +11,6 @@
 		{"id":"7b4c3f6c13640444","type":"text","text":"从现金看长期经营资产","x":-104,"y":-108,"width":250,"height":60,"color":"4"},
 		{"id":"9360737159068cec","type":"text","text":"固定资产和在建工程","x":-400,"y":57,"width":250,"height":60},
 		{"id":"dad337440aed197c","type":"text","text":"商誉","x":195,"y":-300,"width":250,"height":60},
-		{"id":"09817eea740c0968","type":"text","text":"其他长期经营资产","x":280,"y":-108,"width":250,"height":60},
 		{"id":"a88e2919bd22c9ae","type":"file","file":"扎实基础/财务报表/从现金看财报/固定资产的定义.md","x":-740,"y":200,"width":250,"height":60},
 		{"id":"c5807d4ad90fc87c","type":"file","file":"扎实基础/财务报表/从现金看财报/在建工程.md","x":-650,"y":380,"width":250,"height":266},
 		{"id":"ffa2ca13f439b71a","type":"file","file":"扎实基础/财务报表/从现金看财报/在建工程和固定资产的区别.md","x":-349,"y":483,"width":250,"height":60},
@@ -19,13 +21,15 @@
 		{"id":"44da360a1e1396a5","type":"file","file":"扎实基础/财务报表/从现金看财报/无形资产的定义.md","x":333,"y":302,"width":250,"height":60},
 		{"id":"78a83edaaf26cacd","type":"file","file":"扎实基础/财务报表/从现金看财报/最容易低估和操纵的无形资产.md","x":108,"y":537,"width":400,"height":400},
 		{"id":"c51a56b1e833f414","type":"file","file":"扎实基础/财务报表/从现金看财报/无形资产转换现金.md","x":660,"y":440,"width":250,"height":461},
-		{"id":"8e9cbd1fdc6da709","type":"file","file":"扎实基础/财务报表/从现金看财报/开发支出转无形资产.md","x":660,"y":294,"width":250,"height":60}
+		{"id":"8e9cbd1fdc6da709","type":"file","file":"扎实基础/财务报表/从现金看财报/开发支出转无形资产.md","x":660,"y":294,"width":250,"height":60},
+		{"id":"09817eea740c0968","type":"text","text":"其他长期经营资产","x":-224,"y":-410,"width":250,"height":60},
+		{"id":"3e3e3d817c9b464b","type":"file","file":"扎实基础/财务报表/从现金看财报/使用权资产.md","x":-504,"y":-770,"width":400,"height":170},
+		{"id":"6a93651f99ab1345","x":-925,"y":-606,"width":400,"height":50,"type":"file","file":"扎实基础/财务报表/从现金看财报/生产性生物资产.md"}
 	],
 	"edges":[
 		{"id":"ac3f2035208c5b73","fromNode":"7b4c3f6c13640444","fromSide":"left","toNode":"9360737159068cec","toSide":"top"},
 		{"id":"547baa71f8a2307f","fromNode":"7b4c3f6c13640444","fromSide":"bottom","toNode":"05e05fd3f2ecee94","toSide":"top"},
 		{"id":"af1e4df3363a5a3c","fromNode":"7b4c3f6c13640444","fromSide":"top","toNode":"dad337440aed197c","toSide":"left"},
-		{"id":"70d5f6cb17618424","fromNode":"7b4c3f6c13640444","fromSide":"right","toNode":"09817eea740c0968","toSide":"left"},
 		{"id":"88c5fca8e9200090","fromNode":"9360737159068cec","fromSide":"left","toNode":"a88e2919bd22c9ae","toSide":"top"},
 		{"id":"12f5c6f83fe29e48","fromNode":"9360737159068cec","fromSide":"bottom","toNode":"c5807d4ad90fc87c","toSide":"top"},
 		{"id":"c49fd1ecdf03ca91","fromNode":"9360737159068cec","fromSide":"left","toNode":"58a8012b97751022","toSide":"bottom"},
@@ -40,6 +44,12 @@
 		{"id":"aaae5fe12cbac3d9","fromNode":"05e05fd3f2ecee94","fromSide":"right","toNode":"d0a145d1116f3c9b","toSide":"left"},
 		{"id":"ad1cd5aefba1139e","fromNode":"05e05fd3f2ecee94","fromSide":"top","toNode":"c4f2ac4710c1a910","toSide":"left"},
 		{"id":"c7a73db47a5d3e56","fromNode":"dad337440aed197c","fromSide":"right","toNode":"3ad882371f6e50c4","toSide":"left"},
-		{"id":"4d16030bf6d4607a","fromNode":"dad337440aed197c","fromSide":"right","toNode":"15730942ef670b66","toSide":"left"}
+		{"id":"4d16030bf6d4607a","fromNode":"dad337440aed197c","fromSide":"right","toNode":"15730942ef670b66","toSide":"left"},
+		{"id":"bda1a36b1f58c4a1","fromNode":"dad337440aed197c","fromSide":"top","toNode":"c9645566c94cee88","toSide":"left"},
+		{"id":"7d3495c0e322e4b8","fromNode":"dad337440aed197c","fromSide":"top","toNode":"9f183739cdb642cb","toSide":"left"},
+		{"id":"9dcae9c53ded140b","fromNode":"7b4c3f6c13640444","fromSide":"top","toNode":"09817eea740c0968","toSide":"bottom"},
+		{"id":"22ca1125af0adfd3","fromNode":"09817eea740c0968","fromSide":"left","toNode":"03f6dd262ea0eadb","toSide":"right"},
+		{"id":"ab7b2a94cc48931c","fromNode":"09817eea740c0968","fromSide":"top","toNode":"3e3e3d817c9b464b","toSide":"bottom"},
+		{"id":"6e1fd2aefb47a373","fromNode":"09817eea740c0968","fromSide":"left","toNode":"6a93651f99ab1345","toSide":"right"}
 	]
 }

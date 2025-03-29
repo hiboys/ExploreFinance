@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"7b4c3f6c13640444","type":"text","text":"从现金看长期经营资产","x":-104,"y":-108,"width":250,"height":60,"color":"4"},
+		{"id":"9360737159068cec","type":"text","text":"固定资产和在建工程","x":-400,"y":57,"width":250,"height":60},
+		{"id":"dad337440aed197c","x":195,"y":-300,"width":250,"height":60,"type":"text","text":"商誉"},
+		{"id":"09817eea740c0968","x":280,"y":-108,"width":250,"height":60,"type":"text","text":"其他长期经营资产"},
+		{"id":"05e05fd3f2ecee94","type":"text","text":"无形资产和开发支出","x":-104,"y":57,"width":250,"height":60},
+		{"id":"a88e2919bd22c9ae","x":-740,"y":200,"width":250,"height":60,"type":"file","file":"扎实基础/财务报表/从现金看财报/固定资产的定义.md"},
+		{"id":"15ece0af171bd05f","x":-440,"y":200,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"ac3f2035208c5b73","fromNode":"7b4c3f6c13640444","fromSide":"left","toNode":"9360737159068cec","toSide":"top"},
+		{"id":"547baa71f8a2307f","fromNode":"7b4c3f6c13640444","fromSide":"bottom","toNode":"05e05fd3f2ecee94","toSide":"top"},
+		{"id":"af1e4df3363a5a3c","fromNode":"7b4c3f6c13640444","fromSide":"top","toNode":"dad337440aed197c","toSide":"left"},
+		{"id":"70d5f6cb17618424","fromNode":"7b4c3f6c13640444","fromSide":"right","toNode":"09817eea740c0968","toSide":"left"},
+		{"id":"88c5fca8e9200090","fromNode":"9360737159068cec","fromSide":"left","toNode":"a88e2919bd22c9ae","toSide":"top"}
+	]
+}

@@ -1,18 +1,29 @@
 {
 	"nodes":[
+		{"id":"58a8012b97751022","type":"file","file":"扎实基础/财务报表/从现金看财报/固定资产使用效率.md","x":-722,"y":-63,"width":250,"height":60},
 		{"id":"7b4c3f6c13640444","type":"text","text":"从现金看长期经营资产","x":-104,"y":-108,"width":250,"height":60,"color":"4"},
 		{"id":"9360737159068cec","type":"text","text":"固定资产和在建工程","x":-400,"y":57,"width":250,"height":60},
-		{"id":"dad337440aed197c","x":195,"y":-300,"width":250,"height":60,"type":"text","text":"商誉"},
-		{"id":"09817eea740c0968","x":280,"y":-108,"width":250,"height":60,"type":"text","text":"其他长期经营资产"},
-		{"id":"05e05fd3f2ecee94","type":"text","text":"无形资产和开发支出","x":-104,"y":57,"width":250,"height":60},
-		{"id":"a88e2919bd22c9ae","x":-740,"y":200,"width":250,"height":60,"type":"file","file":"扎实基础/财务报表/从现金看财报/固定资产的定义.md"},
-		{"id":"15ece0af171bd05f","x":-440,"y":200,"width":250,"height":60,"type":"text","text":""}
+		{"id":"dad337440aed197c","type":"text","text":"商誉","x":195,"y":-300,"width":250,"height":60},
+		{"id":"09817eea740c0968","type":"text","text":"其他长期经营资产","x":280,"y":-108,"width":250,"height":60},
+		{"id":"a88e2919bd22c9ae","type":"file","file":"扎实基础/财务报表/从现金看财报/固定资产的定义.md","x":-740,"y":200,"width":250,"height":60},
+		{"id":"c5807d4ad90fc87c","type":"file","file":"扎实基础/财务报表/从现金看财报/在建工程.md","x":-650,"y":380,"width":250,"height":266},
+		{"id":"ffa2ca13f439b71a","x":-349,"y":483,"width":250,"height":60,"type":"file","file":"扎实基础/财务报表/从现金看财报/在建工程和固定资产的区别.md"},
+		{"id":"95a03dd949456c12","x":-87,"y":324,"width":250,"height":60,"type":"file","file":"扎实基础/财务报表/从现金看财报/收不回现金的固定资产和在建工程怎么处理.md"},
+		{"id":"ac0e5364af42c690","x":-775,"y":-300,"width":250,"height":60,"type":"file","file":"扎实基础/财务报表/从现金看财报/固定资产的折旧问题.md"},
+		{"id":"2f2883c05a167652","x":-525,"y":-200,"width":250,"height":60,"type":"file","file":"扎实基础/财务报表/从现金看财报/如何防范在建工程和固定资产暴雷.md"},
+		{"id":"05e05fd3f2ecee94","type":"text","text":"无形资产和开发支出","x":195,"y":140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ac3f2035208c5b73","fromNode":"7b4c3f6c13640444","fromSide":"left","toNode":"9360737159068cec","toSide":"top"},
 		{"id":"547baa71f8a2307f","fromNode":"7b4c3f6c13640444","fromSide":"bottom","toNode":"05e05fd3f2ecee94","toSide":"top"},
 		{"id":"af1e4df3363a5a3c","fromNode":"7b4c3f6c13640444","fromSide":"top","toNode":"dad337440aed197c","toSide":"left"},
 		{"id":"70d5f6cb17618424","fromNode":"7b4c3f6c13640444","fromSide":"right","toNode":"09817eea740c0968","toSide":"left"},
-		{"id":"88c5fca8e9200090","fromNode":"9360737159068cec","fromSide":"left","toNode":"a88e2919bd22c9ae","toSide":"top"}
+		{"id":"88c5fca8e9200090","fromNode":"9360737159068cec","fromSide":"left","toNode":"a88e2919bd22c9ae","toSide":"top"},
+		{"id":"12f5c6f83fe29e48","fromNode":"9360737159068cec","fromSide":"bottom","toNode":"c5807d4ad90fc87c","toSide":"top"},
+		{"id":"c49fd1ecdf03ca91","fromNode":"9360737159068cec","fromSide":"left","toNode":"58a8012b97751022","toSide":"bottom"},
+		{"id":"dc417ba6da44fb48","fromNode":"9360737159068cec","fromSide":"left","toNode":"ac0e5364af42c690","toSide":"bottom"},
+		{"id":"b57817b4dcfab107","fromNode":"9360737159068cec","fromSide":"bottom","toNode":"ffa2ca13f439b71a","toSide":"top"},
+		{"id":"7eb6e479f6d8c82b","fromNode":"9360737159068cec","fromSide":"bottom","toNode":"95a03dd949456c12","toSide":"top"},
+		{"id":"d7f9f7f001d7c42f","fromNode":"9360737159068cec","fromSide":"top","toNode":"2f2883c05a167652","toSide":"bottom"}
 	]
 }

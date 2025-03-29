@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"17b36dacd734f14d","x":-291,"y":530,"width":400,"height":400,"type":"file","file":"扎实基础/财务报表/从现金看财报/现金转存货.md"},
+		{"id":"c61924e47a51adf5","type":"file","file":"扎实基础/财务报表/从现金看财报/周转性经营投入定义.md","x":-356,"y":129,"width":250,"height":60},
+		{"id":"7bc1b0ef4fc9f7e0","type":"text","text":"从现金看周转性经营投入","x":-187,"y":-20,"width":250,"height":60},
+		{"id":"16fe3de20061725c","x":44,"y":130,"width":400,"height":400,"type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看周转性经营资产.md"}
+	],
+	"edges":[
+		{"id":"2e1b9354c6457f31","fromNode":"7bc1b0ef4fc9f7e0","fromSide":"bottom","toNode":"c61924e47a51adf5","toSide":"top"},
+		{"id":"3f4f402ecba55757","fromNode":"7bc1b0ef4fc9f7e0","fromSide":"bottom","toNode":"16fe3de20061725c","toSide":"top"}
+	]
+}

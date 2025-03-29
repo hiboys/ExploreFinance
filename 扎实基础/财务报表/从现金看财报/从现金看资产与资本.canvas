@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0027d8f9f683c27e","x":720,"y":80,"width":250,"height":60,"type":"file","file":"扎实基础/财务报表/从现金看财报/资本的回报要求.md"},
+		{"id":"daa1729bccd01724","type":"file","file":"扎实基础/财务报表/从现金看财报/资产挣钱的能力.md","x":720,"y":-100,"width":250,"height":60},
+		{"id":"8e910099955430f5","type":"file","file":"扎实基础/财务报表/从现金看财报/资产和资本的收益匹配性.md","x":340,"y":-100,"width":250,"height":60},
+		{"id":"1b340e71f4246ce0","type":"text","text":"资产和资本是现金的一体两面，一边是资金的运用，一边是资金的来源","x":-50,"y":-300,"width":250,"height":60},
+		{"id":"611f631aad12a57c","type":"text","text":"从现金看资产和资本\n","x":-50,"y":-100,"width":250,"height":60,"color":"2"},
+		{"id":"993a8f4231f8bacc","type":"text","text":"资产和资本的时间期限匹配性","x":-50,"y":80,"width":250,"height":60},
+		{"id":"cdd708bb49e5665e","type":"file","file":"扎实基础/财务报表/从现金看财报/资产结构和资本结构管理策略.md","x":-500,"y":9,"width":250,"height":202},
+		{"id":"77b009bde24cdc1a","type":"file","file":"扎实基础/财务报表/从现金看财报/长期经营资产需要长期资本满足.md","x":-500,"y":300,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8594ca8e5bcee417","fromNode":"611f631aad12a57c","fromSide":"top","toNode":"1b340e71f4246ce0","toSide":"bottom"},
+		{"id":"6aab6fd8847cb0ba","fromNode":"993a8f4231f8bacc","fromSide":"left","toNode":"cdd708bb49e5665e","toSide":"right"},
+		{"id":"c383f00434857fb5","fromNode":"611f631aad12a57c","fromSide":"bottom","toNode":"993a8f4231f8bacc","toSide":"top"},
+		{"id":"301a959403659501","fromNode":"993a8f4231f8bacc","fromSide":"bottom","toNode":"77b009bde24cdc1a","toSide":"right"},
+		{"id":"4ffa58c38a56b9c5","fromNode":"611f631aad12a57c","fromSide":"right","toNode":"8e910099955430f5","toSide":"left"},
+		{"id":"4aa8bed16153eb2b","fromNode":"8e910099955430f5","fromSide":"right","toNode":"daa1729bccd01724","toSide":"left"},
+		{"id":"4cf5b07adb9b886b","fromNode":"8e910099955430f5","fromSide":"right","toNode":"0027d8f9f683c27e","toSide":"left"}
+	]
+}

@@ -2,10 +2,7 @@
 	"nodes":[
 		{"id":"c61924e47a51adf5","type":"file","file":"扎实基础/财务报表/从现金看财报/周转性经营投入定义.md","x":-356,"y":129,"width":250,"height":60},
 		{"id":"7bc1b0ef4fc9f7e0","type":"text","text":"从现金看周转性经营投入","x":-187,"y":-20,"width":250,"height":60},
-		{"id":"7a14f0a8958eb6a6","type":"file","file":"扎实基础/财务报表/从现金看财报/如何防范存货暴雷.md","x":-1020,"y":240,"width":400,"height":400},
-		{"id":"17b36dacd734f14d","type":"file","file":"扎实基础/财务报表/从现金看财报/现金转存货.md","x":-860,"y":720,"width":400,"height":400},
 		{"id":"b558bb2e67119946","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看预防账款.md","x":380,"y":-800,"width":400,"height":400},
-		{"id":"1c28d0266301290c","type":"text","text":"存货\n","x":-500,"y":760,"width":250,"height":60},
 		{"id":"16fe3de20061725c","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看周转性经营资产.md","x":-160,"y":340,"width":400,"height":400},
 		{"id":"dffcb899aded1b81","type":"file","file":"扎实基础/财务报表/从现金看财报/存货转现金.md","x":-420,"y":1080,"width":400,"height":400},
 		{"id":"cd20c74364a8b655","type":"file","file":"扎实基础/财务报表/从现金看财报/存货无法收回现金.md","x":100,"y":1040,"width":400,"height":400},
@@ -13,7 +10,11 @@
 		{"id":"bb6f92675c371a10","type":"file","file":"扎实基础/财务报表/从现金看财报/应收款无法收回现金.md","x":623,"y":1100,"width":400,"height":400},
 		{"id":"a4bc75635bc6cb12","type":"file","file":"扎实基础/财务报表/从现金看财报/如何防止应收款暴雷.md","x":1000,"y":700,"width":400,"height":400},
 		{"id":"4964b2d7fac269d6","type":"file","file":"扎实基础/财务报表/从现金看财报/应收款转现金.md","x":960,"y":200,"width":400,"height":400},
-		{"id":"1ed3f477a16b32a3","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看合同资产.md","x":780,"y":-320,"width":400,"height":400}
+		{"id":"1ed3f477a16b32a3","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看合同资产.md","x":780,"y":-320,"width":400,"height":400},
+		{"id":"17b36dacd734f14d","type":"file","file":"扎实基础/财务报表/从现金看财报/现金转存货.md","x":-1000,"y":880,"width":400,"height":400},
+		{"id":"7a14f0a8958eb6a6","type":"file","file":"扎实基础/财务报表/从现金看财报/如何防范存货暴雷.md","x":-1280,"y":320,"width":400,"height":400},
+		{"id":"1c28d0266301290c","type":"text","text":"存货\n","x":-620,"y":660,"width":250,"height":60},
+		{"id":"463791bc34a597f6","x":-854,"y":25,"width":400,"height":400,"type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看递延所得税资产和递延所得税负债.md"}
 	],
 	"edges":[
 		{"id":"2e1b9354c6457f31","fromNode":"7bc1b0ef4fc9f7e0","fromSide":"bottom","toNode":"c61924e47a51adf5","toSide":"top"},
@@ -28,6 +29,7 @@
 		{"id":"9717754192bb860c","fromNode":"38c3e3c1711ee5dd","fromSide":"top","toNode":"4964b2d7fac269d6","toSide":"left"},
 		{"id":"198107a1141a8314","fromNode":"38c3e3c1711ee5dd","fromSide":"bottom","toNode":"bb6f92675c371a10","toSide":"top"},
 		{"id":"929018d222211af3","fromNode":"38c3e3c1711ee5dd","fromSide":"top","toNode":"1ed3f477a16b32a3","toSide":"bottom"},
-		{"id":"7233e0697dcd213a","fromNode":"16fe3de20061725c","fromSide":"top","toNode":"b558bb2e67119946","toSide":"bottom"}
+		{"id":"7233e0697dcd213a","fromNode":"16fe3de20061725c","fromSide":"top","toNode":"b558bb2e67119946","toSide":"bottom"},
+		{"id":"0c72043eaa6b57e8","fromNode":"16fe3de20061725c","fromSide":"left","toNode":"463791bc34a597f6","toSide":"right"}
 	]
 }

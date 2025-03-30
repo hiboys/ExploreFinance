@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"45765d3f66dfe289","type":"text","text":"从现金看营业收入、成本费用和利润","x":-91,"y":-39,"width":250,"height":60},
+		{"id":"916c295cec628541","type":"file","file":"扎实基础/财务报表/从现金看财报/经营利润.md","x":-400,"y":160,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"236812c0ef91d600","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"916c295cec628541","toSide":"top"}
+	]
+}

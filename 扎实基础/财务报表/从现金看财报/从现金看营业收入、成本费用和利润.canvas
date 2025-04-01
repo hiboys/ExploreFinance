@@ -10,7 +10,8 @@
 		{"id":"a18091248b88fb27","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看资产减值损失和信用减值损失.md","x":-980,"y":160,"width":400,"height":400},
 		{"id":"6d4c6ff486d1d2ef","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看其他收益和营业外收支.md","x":-1560,"y":160,"width":400,"height":400},
 		{"id":"663c2973bc662b67","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看息税前利润.md","x":-2080,"y":160,"width":400,"height":400},
-		{"id":"58cd564da3808c27","x":-2880,"y":160,"width":400,"height":400,"type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看财务费用和利息支出.md"}
+		{"id":"58cd564da3808c27","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看财务费用和利息支出.md","x":-2880,"y":160,"width":400,"height":400},
+		{"id":"0daf9933f05f7627","x":-2251,"y":-881,"width":400,"height":400,"type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看所得税费用.md"}
 	],
 	"edges":[
 		{"id":"236812c0ef91d600","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"916c295cec628541","toSide":"top"},
@@ -22,6 +23,7 @@
 		{"id":"2045bd526315008e","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"a18091248b88fb27","toSide":"top"},
 		{"id":"5a3f1bdca75baf20","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"6d4c6ff486d1d2ef","toSide":"top"},
 		{"id":"acf3c1b6ad9215aa","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"58cd564da3808c27","toSide":"top"},
-		{"id":"87b152d3dc7e684e","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"663c2973bc662b67","toSide":"top"}
+		{"id":"87b152d3dc7e684e","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"663c2973bc662b67","toSide":"top"},
+		{"id":"8d034c7a838fd50f","fromNode":"45765d3f66dfe289","fromSide":"top","toNode":"0daf9933f05f7627","toSide":"right"}
 	]
 }

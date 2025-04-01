@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"916c295cec628541","type":"file","file":"扎实基础/财务报表/从现金看财报/经营利润.md","x":-400,"y":160,"width":400,"height":400},
+		{"id":"4986d3c1106d3a1e","type":"file","file":"扎实基础/财务报表/从现金看财报/如何从现金看营业收入.md","x":100,"y":160,"width":400,"height":400},
+		{"id":"7b4d504d8e04dffa","type":"file","file":"扎实基础/财务报表/从现金看财报/如何防范营业收入暴雷.md","x":100,"y":680,"width":400,"height":400},
+		{"id":"701bf2a15a63f607","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看营业成本.md","x":580,"y":160,"width":400,"height":400},
+		{"id":"45765d3f66dfe289","type":"text","text":"从现金看营业收入、成本费用和利润","x":120,"y":-260,"width":250,"height":60},
+		{"id":"57090da53389dd51","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看税金及附加、销售费用和管理费用.md","x":1129,"y":162,"width":400,"height":400},
+		{"id":"eaff9b24a4ca4d09","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看研发费用.md","x":1694,"y":180,"width":400,"height":400},
+		{"id":"a18091248b88fb27","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看资产减值损失和信用减值损失.md","x":-980,"y":160,"width":400,"height":400},
+		{"id":"6d4c6ff486d1d2ef","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看其他收益和营业外收支.md","x":-1560,"y":160,"width":400,"height":400},
+		{"id":"663c2973bc662b67","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看息税前利润.md","x":-2080,"y":160,"width":400,"height":400},
+		{"id":"58cd564da3808c27","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看财务费用和利息支出.md","x":-2880,"y":160,"width":400,"height":400},
+		{"id":"0daf9933f05f7627","x":-2251,"y":-881,"width":400,"height":400,"type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看所得税费用.md"}
+	],
+	"edges":[
+		{"id":"236812c0ef91d600","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"916c295cec628541","toSide":"top"},
+		{"id":"4dcef5000c8870f1","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"4986d3c1106d3a1e","toSide":"top"},
+		{"id":"7bfc32f419fb7baf","fromNode":"4986d3c1106d3a1e","fromSide":"bottom","toNode":"7b4d504d8e04dffa","toSide":"top"},
+		{"id":"ca7267a757352317","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"701bf2a15a63f607","toSide":"top"},
+		{"id":"738e20ab4e3a8422","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"57090da53389dd51","toSide":"top"},
+		{"id":"abb8d2a4c1e93b46","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"eaff9b24a4ca4d09","toSide":"top"},
+		{"id":"2045bd526315008e","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"a18091248b88fb27","toSide":"top"},
+		{"id":"5a3f1bdca75baf20","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"6d4c6ff486d1d2ef","toSide":"top"},
+		{"id":"acf3c1b6ad9215aa","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"58cd564da3808c27","toSide":"top"},
+		{"id":"87b152d3dc7e684e","fromNode":"45765d3f66dfe289","fromSide":"bottom","toNode":"663c2973bc662b67","toSide":"top"},
+		{"id":"8d034c7a838fd50f","fromNode":"45765d3f66dfe289","fromSide":"top","toNode":"0daf9933f05f7627","toSide":"right"}
+	]
+}

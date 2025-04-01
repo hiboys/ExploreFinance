@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"451f23fe129cb15b","type":"text","text":"从现金看经营活动和自由现金流","x":-89,"y":-32,"width":250,"height":60},
+		{"id":"5c4425dbbb07d7fc","type":"file","file":"扎实基础/财务报表/从现金看财报/经营活动收回现金的速度.md","x":125,"y":204,"width":400,"height":400},
+		{"id":"396eb068ee93ee18","type":"file","file":"扎实基础/财务报表/从现金看财报/通过经营活动收回现金.md","x":-420,"y":204,"width":400,"height":400},
+		{"id":"70cd9ce515fab22d","x":-364,"y":-620,"width":400,"height":400,"type":"file","file":"扎实基础/财务报表/从现金看财报/自由现金流.md"}
+	],
+	"edges":[
+		{"id":"aa3a88da75484c68","fromNode":"451f23fe129cb15b","fromSide":"bottom","toNode":"396eb068ee93ee18","toSide":"top"},
+		{"id":"2cd433ad8a174108","fromNode":"451f23fe129cb15b","fromSide":"bottom","toNode":"5c4425dbbb07d7fc","toSide":"top"},
+		{"id":"96cd8cec0bfac72e","fromNode":"451f23fe129cb15b","fromSide":"top","toNode":"70cd9ce515fab22d","toSide":"bottom"}
+	]
+}

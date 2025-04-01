@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"bb44dcff991afd12","type":"text","text":"从现金看周转性经营投入\n","x":-142,"y":-47,"width":250,"height":60},
+		{"id":"ec7cb5798d9e5a63","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看周转性经营负债.canvas","x":-417,"y":140,"width":400,"height":400},
+		{"id":"10275ac9c1a77be5","type":"file","file":"扎实基础/财务报表/从现金看财报/从现金看周转性经营资产.canvas","x":108,"y":140,"width":400,"height":400},
+		{"id":"8202f1207d640b96","x":-142,"y":-680,"width":400,"height":400,"type":"file","file":"扎实基础/财务报表/从现金看财报/从周转性经营资产和周转性经营负债看商业模式.md"}
+	],
+	"edges":[
+		{"id":"27b9cb6e0f0511ea","fromNode":"bb44dcff991afd12","fromSide":"bottom","toNode":"ec7cb5798d9e5a63","toSide":"top"},
+		{"id":"f50122df1856cabf","fromNode":"bb44dcff991afd12","fromSide":"bottom","toNode":"10275ac9c1a77be5","toSide":"top"},
+		{"id":"ad23554c4495dbd2","fromNode":"bb44dcff991afd12","fromSide":"top","toNode":"8202f1207d640b96","toSide":"bottom"}
+	]
+}

@@ -1,6 +1,11 @@
 # Explore Finance Project
 ExploreFinance是一个知识分享性项目，源自一个计算机专业出身的证券从业人员，带着『**扎实基础，立足行业，投资未来**』的期许，对金融领域的业余探索。
 
+
+> [!NOTE] 引言
+> 做投资的乐趣是可以四处去探索，永远对世界保持好奇，这是其他工作没有办法给我的。
+
+
 ## 🧱 Architecture
 
 1.**扎实基础**，包括投资学、经济学等学科；
@@ -22,3 +27,4 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - Obsidian
 - 微信读书
 - [秘塔AI搜索](https://metaso.cn/)
+- [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)

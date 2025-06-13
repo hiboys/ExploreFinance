@@ -22,6 +22,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [人地之间：中国增长模式下的城乡土地改革 - 陶然 - 微信读书](https://weread.qq.com/web/reader/4a1322e0813ab7f4ag010fb7)
 - [置身事内：中国政府与经济发展 - 兰小欢 - 微信读书](https://weread.qq.com/web/reader/2a332d10726332f72a34943)
 - [被追赶的经济体 - [美]辜朝明 - 微信读书](https://weread.qq.com/web/reader/7ac32f60813ab87d3g015c97)
+- [经济运行的逻辑（中国金融四十人论坛书系）（精装） - 高善文 - 微信读书](https://weread.qq.com/web/reader/2dd321205c520b2dd1acb86)
 ## 💡 F.A.Q
 金融系统相当复杂，容易迷失，探索过程需要讲究策略。可以采用化繁为简、自顶向下和自底向上的方法。
 

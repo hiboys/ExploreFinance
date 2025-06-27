@@ -25,6 +25,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [经济运行的逻辑（中国金融四十人论坛书系）（精装） - 高善文 - 微信读书](https://weread.qq.com/web/reader/2dd321205c520b2dd1acb86)
 - [文明、现代化、价值投资与中国 - 李录 - 微信读书](https://weread.qq.com/web/reader/6f5323f071bd7f7b6f521e8)
 - [解读中国经济 - 林毅夫 - 微信读书](https://weread.qq.com/web/reader/62a326b059f06862a5201ac)
+- [财经研究 -- 上海财经大学期刊社](https://qks.sufe.edu.cn/J/CJYJ.html/CN)
 ## 💡 F.A.Q
 金融系统相当复杂，容易迷失，探索过程需要讲究策略。可以采用化繁为简、自顶向下和自底向上的方法。
 

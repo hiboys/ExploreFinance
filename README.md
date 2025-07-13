@@ -1,5 +1,5 @@
 # Explore Finance Project
-ExploreFinance是一个知识分享性项目，源自一个计算机专业出身的证券从业人员，带着『**扎实基础，立足行业，投资未来**』的期许，对金融领域的业余探索。
+ExploreFinance是一个知识分享性项目，源自一个计算机专业出身的证券从业人员，带着『**扎实基础，立足行业，投资未来**』的期许，对金融领域的业余探索。*持续更新*。
 
 
 > [!NOTE] 引言
@@ -12,7 +12,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 2.**立足行业**，学习行业法律法规、关注监管；
 
-3.**投资未来**，修炼宏观数据分析、财务报表分析和基金投资等技能，建立投资理念和框架。
+3.**投资未来**，修炼宏观数据分析、基本面分析、技术分析、财务报表分析和基金投资等技能，建立投资理念和框架。
 
 ## 🚀 Getting Started
 - [策略投资：从方法论到进化论 - 戴康 郑恺 韦冀星 倪赓 等 - 微信读书](https://weread.qq.com/web/reader/3a332100813ab8291g01835e)
@@ -28,8 +28,11 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [非均衡的中国经济 - 厉以宁 - 微信读书](https://weread.qq.com/web/reader/f9b32780813ab7203g0172d6)
 - [财经研究 -- 上海财经大学期刊社](https://qks.sufe.edu.cn/J/CJYJ.html/CN)
 - [振荡指标MACD：波段操作精解（升级版） - 凌波 - 微信读书](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
+- [随机指标KDJ：波段操作精解 - 凌波 - 微信读书](https://weread.qq.com/web/reader/86e32300718e765e86eb1d5)
+- [交易至”简”：交易思维模式训练与实战心法 - 简放 - 微信读书](https://weread.qq.com/web/reader/44f32fc0813ab844ag01741f)
+- [以交易为生（原书第2版） - 亚历山大·埃尔德 - 微信读书](https://weread.qq.com/web/reader/8fa32a205dde488fa6bc2a6)
 ## 💡 F.A.Q
-金融系统相当复杂，容易迷失，探索过程需要讲究策略。可以采用化繁为简、自顶向下和自底向上的方法。
+金融系统相当复杂，容易迷失，探索过程需要讲究策略。可以采用化繁为简、自顶向下和自底向上，基本面和技术面结合的方法。
 
 ### 化繁为简
 通过行业资深从业者、分析师写的书，比如：戴康的《策略投资：从方法论到进化论》阐述DDM模型，深入了解影响市场证券价格的关键变量，建立一个基础框架。还有一些方法论文章：[燕翔：价值投资三种方法浅析](https://mp.weixin.qq.com/s?__biz=MzU0MjAwOTA2MQ==&mid=2247522979&idx=1&sn=08eab40add1230434922c156eb8952c6&chksm=fa7ec44cfad27424d177bbe270ba376c3ce44d8da6663e23884fe67c99467b2e065ae7cacfde#rd)，[燕翔：策略框架之板块轮动](https://mp.weixin.qq.com/s/FWGUHkHoZWldp1vdffg-7g)
@@ -40,14 +43,17 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 自底向上
 要么赚估值的钱，要么赚业绩的钱。企业走得长远，还是要靠业绩，关注企业基本面必不可少。因此需要一些必要的财务报表分析知识。微信读书中有不少不错的财务报表分析入门书，比如：《[张新民教你读财报 ](https://weread.qq.com/web/reader/a6932010813ab789bg0155e6)》、《从现金看财报》、《从财报看企业》。
 
+### 技术分析
+券商卖方分析大多是基本面分析，面向长期投资。实际交易需了解技术分析，多空研判，找准买点和卖点，建立一套理性的交易系统，可参考凌波写的《振荡指标MACD》、《随机指标KDJ》。
+
 ### 常用工具
-积累了基础知识后，需要有金融数据渠道，去实践，跟踪观察相关数据变化，最推荐的是choice金融终端老版本，数据访问受限不多。还有 [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)。
+积累了基础知识后，需要建立投资理财工作流，定期跟踪观察相关数据变化。最推荐的是choice金融终端老版本，数据访问受限不多。在choice数据浏览器设置好模板，提取数据，导入飞书多维表格模板进行数据分析。飞书多维表格模板也提前设置好策略公式。还有 [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)。
 
 ## 🛠️ Tool
 - [企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)
 - [数据中心 _ 东方财富网](https://data.eastmoney.com/center/)
 - [[choice金融终端]]
-- [飞书多维表格](https://docs.feishu.cn/welcome)
+- [飞书多维表格-数据分析](https://docs.feishu.cn/welcome)
 - Obsidian
 - 微信读书
 - [秘塔AI搜索](https://metaso.cn/)

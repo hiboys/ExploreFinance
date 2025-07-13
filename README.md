@@ -47,6 +47,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)
 - [数据中心 _ 东方财富网](https://data.eastmoney.com/center/)
 - [[choice金融终端]]
+- [飞书多维表格](https://docs.feishu.cn/welcome)
 - Obsidian
 - 微信读书
 - [秘塔AI搜索](https://metaso.cn/)

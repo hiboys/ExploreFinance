@@ -27,6 +27,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [解读中国经济 - 林毅夫 - 微信读书](https://weread.qq.com/web/reader/62a326b059f06862a5201ac)
 - [非均衡的中国经济 - 厉以宁 - 微信读书](https://weread.qq.com/web/reader/f9b32780813ab7203g0172d6)
 - [财经研究 -- 上海财经大学期刊社](https://qks.sufe.edu.cn/J/CJYJ.html/CN)
+- [振荡指标MACD：波段操作精解（升级版） - 凌波 - 微信读书](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
 ## 💡 F.A.Q
 金融系统相当复杂，容易迷失，探索过程需要讲究策略。可以采用化繁为简、自顶向下和自底向上的方法。
 

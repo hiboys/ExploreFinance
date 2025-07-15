@@ -59,3 +59,4 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [秘塔AI搜索](https://metaso.cn/)
 - [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)
 - [同花顺问财](https://www.iwencai.com/unifiedwap/home/index)
+- [条件选股](https://xuangu.eastmoney.com/)

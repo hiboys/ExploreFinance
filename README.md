@@ -1,5 +1,5 @@
 # Explore Finance Project
-ExploreFinance是一个知识分享性项目，源自一个计算机专业出身的证券从业人员，带着『**扎实基础，立足行业，投资未来**』的期许，对金融领域的业余探索。*持续更新*。
+ExploreFinance是一个知识分享性项目，源自一个计算机专业出身的证券从业人员，带着『**扎实基础，立足行业，投资未来**』的期许，对金融领域的业余探索，并且基于AI驱动进行ETF投资实践。*持续更新*。
 
 
 > [!NOTE] 引言
@@ -27,6 +27,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [解读中国经济 - 林毅夫 - 微信读书](https://weread.qq.com/web/reader/62a326b059f06862a5201ac)
 - [非均衡的中国经济 - 厉以宁 - 微信读书](https://weread.qq.com/web/reader/f9b32780813ab7203g0172d6)
 - [财经研究 -- 上海财经大学期刊社](https://qks.sufe.edu.cn/J/CJYJ.html/CN)
+- [操盘手记：分时图交易实战精解 - 陈培树 - 微信读书](https://weread.qq.com/web/reader/b8532880717d2e6db854489)
 - [振荡指标MACD：波段操作精解（升级版） - 凌波 - 微信读书](https://weread.qq.com/web/reader/9ab3240059cb479abb2f6b7)
 - [随机指标KDJ：波段操作精解 - 凌波 - 微信读书](https://weread.qq.com/web/reader/86e32300718e765e86eb1d5)
 - [交易至”简”：交易思维模式训练与实战心法 - 简放 - 微信读书](https://weread.qq.com/web/reader/44f32fc0813ab844ag01741f)
@@ -49,6 +50,12 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 常用工具
 积累了基础知识后，需要建立投资理财工作流，定期跟踪观察相关数据变化。最推荐的是choice金融终端老版本，数据访问受限不多。在choice数据浏览器设置好模板，提取数据，导入飞书多维表格模板进行数据分析。飞书多维表格模板也提前设置好策略公式。还有 [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)。
 
+### AI驱动的ETF投资实践
+
+自底向上：交易前，基于基本面和技术面，利用同花顺的问财金融大模型深度思考能力，进行ETF筛选；在同花顺手机app进行交易；交易后，同样利用问财AI进行持续尽调和风险监控。
+
+自顶向下：在慧博投资分析手机app订阅宏观经济和行业分析研报；在慧博播放研报，同时打开Get笔记的手机内录功能，录制后AI自动总结、提取关键亮点并且给与行动建议；继续使用问财筛选ETF，做尽调。
+
 ## 🛠️ Tool
 - [企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)
 - [数据中心 _ 东方财富网](https://data.eastmoney.com/center/)
@@ -56,6 +63,8 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [飞书多维表格-数据分析](https://docs.feishu.cn/welcome)
 - Obsidian
 - 微信读书
+- 慧博投资分析
+- Get笔记
 - [秘塔AI搜索](https://metaso.cn/)
 - [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)
 - [同花顺问财](https://www.iwencai.com/unifiedwap/home/index)

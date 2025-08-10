@@ -63,7 +63,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [飞书多维表格-数据分析](https://docs.feishu.cn/welcome)
 - Obsidian
 - 微信读书
-- 慧博投资分析
+- [慧博投研资讯](https://www.hibor.com.cn/)
 - Get笔记
 - [秘塔AI搜索](https://metaso.cn/)
 - [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)

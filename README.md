@@ -38,6 +38,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [解读中国经济 - 林毅夫 - 微信读书](https://weread.qq.com/web/reader/62a326b059f06862a5201ac)
 - [非均衡的中国经济 - 厉以宁 - 微信读书](https://weread.qq.com/web/reader/f9b32780813ab7203g0172d6)
 - [财经研究 -- 上海财经大学期刊社](https://qks.sufe.edu.cn/J/CJYJ.html/CN)
+- [《习近平经济思想学习纲要》有声书_共产党员网](https://www.12371.cn/special/jjsxgy/)
 
 ### 技术分析
 - [操盘手记：分时图交易实战精解 - 陈培树 - 微信读书](https://weread.qq.com/web/reader/b8532880717d2e6db854489)

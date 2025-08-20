@@ -27,6 +27,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 研究报告
 - [慧博投研资讯](https://www.hibor.com.cn/)
 - [研究是一门艺术 - 韦恩·布斯 格雷戈里·卡洛姆 约瑟夫·威廉姆斯 - 微信读书](https://weread.qq.com/web/reader/db432e10813ab6c3fg015221)
+- [底层逻辑2：理解商业世界的本质 - 刘润 - 微信读书](https://weread.qq.com/web/reader/0b0322e0813ab7435g0197d8)
 - [投资尽职调查：投资逻辑、尽调方法、实战案例 - 戚威 - 微信读书](https://weread.qq.com/web/reader/47d328d0813ab6e43g01891b)
 - [如何阅读研究报告.pdf](https://sysbg.hibor.com.cn/pdf/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 

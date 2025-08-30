@@ -30,6 +30,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [底层逻辑2：理解商业世界的本质 - 刘润 - 微信读书](https://weread.qq.com/web/reader/0b0322e0813ab7435g0197d8)
 - [投资尽职调查：投资逻辑、尽调方法、实战案例 - 戚威 - 微信读书](https://weread.qq.com/web/reader/47d328d0813ab6e43g01891b)
 - [如何阅读研究报告.pdf](https://sysbg.hibor.com.cn/pdf/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
+- [行业比较框架：把握位置感](https://mp.weixin.qq.com/s?__biz=MzAxNjAwNTMwNQ==&mid=2652384917&idx=1&sn=d3a7de104f3d6c9920cc2d5961d1b1d3&chksm=8182d4c46c94e052583bb86c6a82a14070fe3404b0288ac0f6bf9b239cec4752bda24f01bcb6&scene=90&xtrack=1&sessionid=1756455045&subscene=93&clicktime=1756455128&enterid=1756455128&flutter_pos=5&biz_enter_id=4&ranksessionid=1756455051&jumppath=1001_1756455043263%2C1104_1756455046123%2C20020_1756455051058%2C1104_1756455114123&jumppathdepth=4&ascene=56&devicetype=iOS18.6.1&version=18003e34&nettype=3G+&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQVfmeuKIqsKZifWZTFD455RLYAQIE97dBBAEAAAAAAJqVD5x8cSQAAAAOpnltbLcz9gKNyK89dVj0ltlQo1l9BUdl0b9q2P1I3fV%2FkX7GBFxe33bZgQaKrWsciI29mpFR6rTvx8FKxtBfGNJFlvRXIt8qcJWR4ahPMAaDO1JK%2B6dK5T7UDJmQMSL0O5BPEFuQ0vRtBuDW0%2BsEacGzdtABdyo3K00QHscsvss2W%2FXmrG8zSd763Pzc1XiVzMrJjGUqWhAhQMeUkMQiCBv05Zp5BHY43%2F8erDYoh45inZiSUj%2BnW7J7dnCfHn9avQ%3D%3D&pass_ticket=tzI99pzn8kMAy1USkh8Yg31Tuok2EW8viFc9Fb%2FCHM7CwM7GnjD8k4emu25WQp%2Fz&wx_header=3)
 
 ###  宏观经济
 - [人地之间：中国增长模式下的城乡土地改革 - 陶然 - 微信读书](https://weread.qq.com/web/reader/4a1322e0813ab7f4ag010fb7)
@@ -48,6 +49,9 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [交易至”简”：交易思维模式训练与实战心法 - 简放 - 微信读书](https://weread.qq.com/web/reader/44f32fc0813ab844ag01741f)
 - [以交易为生（原书第2版） - 亚历山大·埃尔德 - 微信读书](https://weread.qq.com/web/reader/8fa32a205dde488fa6bc2a6)
 
+### 数据分析
+- [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
+- [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 ## 💡 F.A.Q
 金融系统相当复杂，容易迷失，探索过程需要讲究策略。可以采用化繁为简、自顶向下和自底向上，基本面和技术面结合的方法。
 

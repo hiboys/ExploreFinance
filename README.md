@@ -52,6 +52,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 数据分析
 - [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
+- [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
 ## 💡 F.A.Q
 金融系统相当复杂，容易迷失，探索过程需要讲究策略。可以采用化繁为简、自顶向下和自底向上，基本面和技术面结合的方法。
 

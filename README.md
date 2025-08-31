@@ -21,11 +21,11 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [张新民教你读财报 - 张新民 - 微信读书](https://weread.qq.com/web/reader/a6932010813ab789bg0155e6)
 - [财新网](https://www.caixin.com/)
 - [证券市场周刊-证券专业媒体](https://www.weeklyonstock.com/)
-- [文明、现代化、价值投资与中国 - 李录 - 微信读书](https://weread.qq.com/web/reader/6f5323f071bd7f7b6f521e8)
-- [价值投资五部曲 - 张磊 邱国鹭 邓晓峰 卓利伟 孙庆瑞 冯柳 卡萝尔·卢米斯 王利杰 - 微信读书](https://weread.qq.com/web/reader/c0332a50721a4eefc03c35c)
-
+- [文明、现代化、价值投资与中国 - 李录 - 微信读书](https://weread.qq.com/web/reader/6f5323f071bd7f7b6f521e8jj)
+- [价值投资五部曲 - 张磊 邱国鹭 邓晓峰 卓利伟 孙庆瑞 冯柳 卡萝尔·卢米斯 王利杰 - jjj'j'j'j'j'j'jjjjjjjjjj
 ### 研究报告
 - [慧博投研资讯](https://www.hibor.com.cn/)
+- [慧博智能策略终端](https://www.hibor.com.cn/soft/download.html)-AI研报速读
 - [研究是一门艺术 - 韦恩·布斯 格雷戈里·卡洛姆 约瑟夫·威廉姆斯 - 微信读书](https://weread.qq.com/web/reader/db432e10813ab6c3fg015221)
 - [底层逻辑2：理解商业世界的本质 - 刘润 - 微信读书](https://weread.qq.com/web/reader/0b0322e0813ab7435g0197d8)
 - [投资尽职调查：投资逻辑、尽调方法、实战案例 - 戚威 - 微信读书](https://weread.qq.com/web/reader/47d328d0813ab6e43g01891b)

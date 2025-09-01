@@ -50,6 +50,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [以交易为生（原书第2版） - 亚历山大·埃尔德 - 微信读书](https://weread.qq.com/web/reader/8fa32a205dde488fa6bc2a6)
 
 ### 数据分析
+- [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
 - [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 - [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)

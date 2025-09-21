@@ -18,6 +18,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 ### 金融投资
 - [投资第1课 - 孟岩 - 微信读书](https://weread.qq.com/web/reader/89b322f0813aba568g0116d0)
+
 - [大势投资：A股超额收益行业与选股策略 - 李美岑 王亦奕 张日升 王源 - 微信读书](https://weread.qq.com/web/reader/8ea32590813ab8e14g016c13)
 - [如何快速了解一个行业 - 肖璟 - 微信读书](https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a)
 - [穿透估值：读懂估值中的共识与博弈 - 邹佩轩 - 微信读书](https://weread.qq.com/web/reader/56732180813ab91e1g01942f)

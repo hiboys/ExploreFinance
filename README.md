@@ -1,6 +1,7 @@
 # Explore Finance Project
 ExploreFinance是一个知识分享性项目，源自一个计算机专业出身的证券从业人员，带着『**扎实基础，立足行业，投资未来**』的期许，对金融领域的业余探索，并且基于AI驱动进行ETF投资实践。*持续更新*。
 
+我们先是通过工作，脱离对家庭的经济依赖。下一步，或许可借助投资，减轻对工作的经济依赖。
 
 > [!NOTE] 引言
 > 做投资的乐趣是可以四处去探索，永远对世界保持好奇，这是其他工作没有办法给我的。
@@ -15,17 +16,16 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 3.**投资未来**，修炼宏观数据分析、基本面分析、技术分析、财务报表分析和基金投资等技能，建立投资理念和框架。
 
 ## 🚀 Getting Started
+以下是一些涉猎过的投资书籍，大多在微信读书。部分相对专业难懂，阅读过程可借助微信读书AI，降低一点困难感，比如：阅读一章前，通过AI总结一下章节的核心观点、关键概念。
 
 ### 金融投资
 - [投资第1课 - 孟岩 - 微信读书](https://weread.qq.com/web/reader/89b322f0813aba568g0116d0)
-
-- [大势投资：A股超额收益行业与选股策略 - 李美岑 王亦奕 张日升 王源 - 微信读书](https://weread.qq.com/web/reader/8ea32590813ab8e14g016c13)
+- [金钱心理学：财富、人性和幸福的永恒真相 - 摩根·豪泽尔 - 微信读书](https://weread.qq.com/web/reader/6ab326d0813ab7f97g014662)
+- [穿透估值：读懂估值中的共识与博弈 - 邹佩轩 - 微信读书](https://weread.qq.com/web/reader/56732180812ab91e1g01942f)
 - [如何快速了解一个行业 - 肖璟 - 微信读书](https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a)
-- [穿透估值：读懂估值中的共识与博弈 - 邹佩轩 - 微信读书](https://weread.qq.com/web/reader/56732180813ab91e1g01942f)
+- [大势投资：A股超额收益行业与选股策略 - 李美岑 王亦奕 张日升 王源 - 微信读书](https://weread.qq.com/web/reader/8ea32590813ab8e14g016c13)
 - [策略投资：从方法论到进化论 - 戴康 郑恺 韦冀星 倪赓 等 - 微信读书](https://weread.qq.com/web/reader/3a332100813ab8291g01835e)
 - [张新民教你读财报 - 张新民 - 微信读书](https://weread.qq.com/web/reader/a6932010813ab789bg0155e6)
-- [财新网](https://www.caixin.com/)
-- [证券市场周刊-证券专业媒体](https://www.weeklyonstock.com/)
 - [文明、现代化、价值投资与中国 - 李录 - 微信读书](https://weread.qq.com/web/reader/6f5323f071bd7f7b6f521e8jj)
 - [价值投资五部曲 - 张磊 邱国鹭 邓晓峰 卓利伟 孙庆瑞 冯柳 卡萝尔·卢米斯 王利杰 - 微信读书](https://weread.qq.com/web/reader/c0332a50721a4eefc03c35c)
 ### 研究报告
@@ -59,6 +59,11 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 - [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
+
+### 资讯报道
+- [财新网](https://www.caixin.com/)
+- [证券市场周刊-证券专业媒体](https://www.weeklyonstock.com/)
+
 ## 💡 F.A.Q
 金融系统相当复杂，容易迷失，探索过程需要讲究策略。可以采用化繁为简、自顶向下和自底向上，基本面和技术面结合的方法。
 

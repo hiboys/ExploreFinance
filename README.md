@@ -22,6 +22,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [投资第1课 - 孟岩 - 微信读书](https://weread.qq.com/web/reader/89b322f0813aba568g0116d0)
 - [金钱心理学：财富、人性和幸福的永恒真相 - 摩根·豪泽尔 - 微信读书](https://weread.qq.com/web/reader/6ab326d0813ab7f97g014662)
 - [投资有规律：从商业模式出发（第2版） - 肖志刚 - 微信读书](https://weread.qq.com/web/reader/43032200813ab78aeg014b1e)
+- [投资至简：从原点出发构建价值投资体系 - 静逸投资 - 微信读书](https://weread.qq.com/web/reader/c0632ff071db38e8c06c716)
 - [穿透估值：读懂估值中的共识与博弈 - 邹佩轩 - 微信读书](https://weread.qq.com/web/reader/56732180812ab91e1g01942f)
 - [如何快速了解一个行业 - 肖璟 - 微信读书](https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a)
 - [大势投资：A股超额收益行业与选股策略 - 李美岑 王亦奕 张日升 王源 - 微信读书](https://weread.qq.com/web/reader/8ea32590813ab8e14g016c13)

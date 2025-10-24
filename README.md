@@ -32,6 +32,9 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [张新民教你读财报 - 张新民 - 微信读书](https://weread.qq.com/web/reader/a6932010813ab789bg0155e6)
 - [文明、现代化、价值投资与中国 - 李录 - 微信读书](https://weread.qq.com/web/reader/6f5323f071bd7f7b6f521e8jj)
 - [价值投资五部曲 - 张磊 邱国鹭 邓晓峰 卓利伟 孙庆瑞 冯柳 卡萝尔·卢米斯 王利杰 - 微信读书](https://weread.qq.com/web/reader/c0332a50721a4eefc03c35c)
+
+### 决策流程
+- [决策思维：人人必备的决策口袋书 - 王嘉陵 - 微信读书](https://weread.qq.com/web/reader/e9032720813ab81c0g012a77)
 ### 研究报告
 - [慧博投研资讯](https://www.hibor.com.cn/)
 - [慧博智能策略终端](https://www.hibor.com.cn/soft/download.html)-AI研报速读

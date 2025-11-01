@@ -37,6 +37,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 决策流程
 - [决策思维：人人必备的决策口袋书 - 王嘉陵 - 微信读书](https://weread.qq.com/web/reader/e9032720813ab81c0g012a77)
 - [打开心智 - 李睿秋 - 微信读书](https://weread.qq.com/web/reader/d13322c072b449f7d13b204)
+- [文化性动物：人类的本性、意义与社会生活 - 罗伊·F·鲍迈斯特 - 微信读书](https://weread.qq.com/web/reader/553323d07263e27b553f730)
 ### 研究报告
 - [慧博投研资讯](https://www.hibor.com.cn/)
 - [慧博智能策略终端](https://www.hibor.com.cn/soft/download.html)-AI研报速读

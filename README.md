@@ -40,6 +40,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [文化性动物：人类的本性、意义与社会生活 - 罗伊·F·鲍迈斯特 - 微信读书](https://weread.qq.com/web/reader/553323d07263e27b553f730)
 ### 研究报告
 - [慧博投研资讯](https://www.hibor.com.cn/)
+- [水滴研报-图表搜索](https://www.sdyanbao.com/chart)
 - [慧博智能策略终端](https://www.hibor.com.cn/soft/download.html)-AI研报速读
 - [研究是一门艺术 - 韦恩·布斯 格雷戈里·卡洛姆 约瑟夫·威廉姆斯 - 微信读书](https://weread.qq.com/web/reader/db432e10813ab6c3fg015221)
 - [底层逻辑2：理解商业世界的本质 - 刘润 - 微信读书](https://weread.qq.com/web/reader/0b0322e0813ab7435g0197d8)
@@ -69,6 +70,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 - [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
+- [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
 
 ### 资讯报道
 - [财新网](https://www.caixin.com/)

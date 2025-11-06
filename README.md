@@ -71,6 +71,9 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 - [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
 - [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
+- [申万|拥挤度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/congestion/sw)
+- [申万2021版|交易热度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/trading-heat/sw-2021)
+- [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
 
 ### 资讯报道
 - [财新网](https://www.caixin.com/)

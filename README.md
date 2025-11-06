@@ -38,6 +38,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [决策思维：人人必备的决策口袋书 - 王嘉陵 - 微信读书](https://weread.qq.com/web/reader/e9032720813ab81c0g012a77)
 - [打开心智 - 李睿秋 - 微信读书](https://weread.qq.com/web/reader/d13322c072b449f7d13b204)
 - [文化性动物：人类的本性、意义与社会生活 - 罗伊·F·鲍迈斯特 - 微信读书](https://weread.qq.com/web/reader/553323d07263e27b553f730)
+- [如何找到想做的事 - [日]八木仁平 - 微信读书](https://weread.qq.com/web/reader/71a32fb0813ab8de8g019cc9)
 ### 研究报告
 - [慧博投研资讯](https://www.hibor.com.cn/)
 - [水滴研报-图表搜索](https://www.sdyanbao.com/chart)
@@ -74,6 +75,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [申万|拥挤度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/congestion/sw)
 - [申万2021版|交易热度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/trading-heat/sw-2021)
 - [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
+- [A股历史两市成交额走势曲线图 —— 海龟投资](http://www.haiguitouzi.com/data_chart/amount.html)
 
 ### 资讯报道
 - [财新网](https://www.caixin.com/)

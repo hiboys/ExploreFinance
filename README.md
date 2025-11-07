@@ -68,17 +68,18 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 ### 数据分析
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
-- [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
+- [指数涨幅统计 - 集思录](https://www.jisilu.cn/data/idx_performance/#idx)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
-- [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
-- [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
+- [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
 - [申万|拥挤度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/congestion/sw)
 - [申万2021版|交易热度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/trading-heat/sw-2021)
+- [股市行业分析 - 萝卜投研](https://robo.datayes.com/v2/industry)
 - [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
 - [A股历史两市成交额走势曲线图 —— 海龟投资](http://www.haiguitouzi.com/data_chart/amount.html)
 - [债市历史温度 - 有知有行](https://youzhiyouxing.cn/data/macro)
 - [基金排名 - 天天基金网](https://fund.eastmoney.com/data/fundranking.html)
-- [指数涨幅统计 - 集思录](https://www.jisilu.cn/data/idx_performance/#idx)
+- [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
+- [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
 
 ### 资讯报道
 - [财新网](https://www.caixin.com/)

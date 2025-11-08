@@ -67,6 +67,8 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [申万2021版|交易热度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/trading-heat/sw-2021)
 - [行业经济数据 - 萝卜投研](https://robo.datayes.com/v2/landing/industrygrp)
 - [股市行业分析 - 萝卜投研](https://robo.datayes.com/v2/industry)
+- [沪深股市行业热点日均涨幅统计](https://quote.cfi.cn/data_ndkA0A1934A1935A35.html#A0A1934A1935)
+- [市场统计-上市公司行业景气排行榜_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1935A61.html#A0A1934A1935)
 
 ### 技术分析
 - [操盘手记：分时图交易实战精解 - 陈培树 - 微信读书](https://weread.qq.com/web/reader/b8532880717d2e6db854489)
@@ -77,12 +79,15 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 ### 数据分析
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
+- [全部市场换手率中位数日统计](https://quote.cfi.cn/data_ndkA0A1934A1935A137.html#A0A1934A1935)
 - [指数涨幅统计 - 集思录](https://www.jisilu.cn/data/idx_performance/#idx)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 - [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
 - [A股历史两市成交额走势曲线图 —— 海龟投资](http://www.haiguitouzi.com/data_chart/amount.html)
 - [债市历史温度 - 有知有行](https://youzhiyouxing.cn/data/macro)
 - [基金排名 - 天天基金网](https://fund.eastmoney.com/data/fundranking.html)
+- [基金数据-基金回报率统计_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1937A48.html#A0A1934A1937)
+- [基金重仓(持仓大于5%)-最新重仓_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1939A5816A5817.html)
 - [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
 - [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
 - [中国经济指标列表-最新发布-聚金数据](https://www.jujindata.com/country/china/overview)

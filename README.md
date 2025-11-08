@@ -69,6 +69,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [股市行业分析 - 萝卜投研](https://robo.datayes.com/v2/industry)
 - [沪深股市行业热点日均涨幅统计](https://quote.cfi.cn/data_ndkA0A1934A1935A35.html#A0A1934A1935)
 - [市场统计-上市公司行业景气排行榜_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1935A61.html#A0A1934A1935)
+- [行业图表数据 - 市场容量、产业链、竞争格局、技术变革、商业模式_行行查 ](https://www.hanghangcha.com/industry)
 
 ### 技术分析
 - [操盘手记：分时图交易实战精解 - 陈培树 - 微信读书](https://weread.qq.com/web/reader/b8532880717d2e6db854489)

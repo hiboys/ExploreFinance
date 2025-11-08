@@ -17,6 +17,8 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 2025年诺贝尔经济学奖"创新驱动增长的理论"，对个人的启示是：投资未来技能，大于守护过时岗位。
 
+投资能力包括择时、选股、选行业，其中难度从难到易递减。新手可从选行业开始，以此为目标精进。
+
 ## 🚀 Getting Started
 以下是一些涉猎过的投资书籍，大多在微信读书。部分相对专业难懂，阅读过程可借助微信读书AI，降低一点困难感，比如：阅读一章前，通过AI总结一下章节的核心观点、关键概念。
 
@@ -26,8 +28,6 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [投资有规律：从商业模式出发（第2版） - 肖志刚 - 微信读书](https://weread.qq.com/web/reader/43032200813ab78aeg014b1e)
 - [投资至简：从原点出发构建价值投资体系 - 静逸投资 - 微信读书](https://weread.qq.com/web/reader/c0632ff071db38e8c06c716)
 - [穿透估值：读懂估值中的共识与博弈 - 邹佩轩 - 微信读书](https://weread.qq.com/web/reader/56732180812ab91e1g01942f)
-- [如何快速了解一个行业 - 肖璟 - 微信读书](https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a)
-- [大势投资：A股超额收益行业与选股策略 - 李美岑 王亦奕 张日升 王源 - 微信读书](https://weread.qq.com/web/reader/8ea32590813ab8e14g016c13)
 - [策略投资：从方法论到进化论 - 戴康 郑恺 韦冀星 倪赓 等 - 微信读书](https://weread.qq.com/web/reader/3a332100813ab8291g01835e)
 - [张新民教你读财报 - 张新民 - 微信读书](https://weread.qq.com/web/reader/a6932010813ab789bg0155e6)
 - [文明、现代化、价值投资与中国 - 李录 - 微信读书](https://weread.qq.com/web/reader/6f5323f071bd7f7b6f521e8jj)
@@ -47,7 +47,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [底层逻辑2：理解商业世界的本质 - 刘润 - 微信读书](https://weread.qq.com/web/reader/0b0322e0813ab7435g0197d8)
 - [投资尽职调查：投资逻辑、尽调方法、实战案例 - 戚威 - 微信读书](https://weread.qq.com/web/reader/47d328d0813ab6e43g01891b)
 - [如何阅读研究报告.pdf](https://sysbg.hibor.com.cn/pdf/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
-- [行业比较框架：把握位置感](https://mp.weixin.qq.com/s?__biz=MzAxNjAwNTMwNQ==&mid=2652384917&idx=1&sn=d3a7de104f3d6c9920cc2d5961d1b1d3&chksm=8182d4c46c94e052583bb86c6a82a14070fe3404b0288ac0f6bf9b239cec4752bda24f01bcb6&scene=90&xtrack=1&sessionid=1756455045&subscene=93&clicktime=1756455128&enterid=1756455128&flutter_pos=5&biz_enter_id=4&ranksessionid=1756455051&jumppath=1001_1756455043263%2C1104_1756455046123%2C20020_1756455051058%2C1104_1756455114123&jumppathdepth=4&ascene=56&devicetype=iOS18.6.1&version=18003e34&nettype=3G+&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQVfmeuKIqsKZifWZTFD455RLYAQIE97dBBAEAAAAAAJqVD5x8cSQAAAAOpnltbLcz9gKNyK89dVj0ltlQo1l9BUdl0b9q2P1I3fV%2FkX7GBFxe33bZgQaKrWsciI29mpFR6rTvx8FKxtBfGNJFlvRXIt8qcJWR4ahPMAaDO1JK%2B6dK5T7UDJmQMSL0O5BPEFuQ0vRtBuDW0%2BsEacGzdtABdyo3K00QHscsvss2W%2FXmrG8zSd763Pzc1XiVzMrJjGUqWhAhQMeUkMQiCBv05Zp5BHY43%2F8erDYoh45inZiSUj%2BnW7J7dnCfHn9avQ%3D%3D&pass_ticket=tzI99pzn8kMAy1USkh8Yg31Tuok2EW8viFc9Fb%2FCHM7CwM7GnjD8k4emu25WQp%2Fz&wx_header=3)
+
 
 ###  宏观经济
 - [人地之间：中国增长模式下的城乡土地改革 - 陶然 - 微信读书](https://weread.qq.com/web/reader/4a1322e0813ab7f4ag010fb7)
@@ -58,6 +58,16 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [非均衡的中国经济 - 厉以宁 - 微信读书](https://weread.qq.com/web/reader/f9b32780813ab7203g0172d6)
 - [财经研究 -- 上海财经大学期刊社](https://qks.sufe.edu.cn/J/CJYJ.html/CN)
 - [《习近平经济思想学习纲要》有声书_共产党员网](https://www.12371.cn/special/jjsxgy/)
+
+### 行业分析 
+- [如何快速了解一个行业 - 肖璟 - 微信读书](https://weread.qq.com/web/reader/4a1321f0813aba52eg011a0a)
+- [大势投资：A股超额收益行业与选股策略 - 李美岑 王亦奕 张日升 王源 - 微信读书](https://weread.qq.com/web/reader/8ea32590813ab8e14g016c13)
+- [行业比较框架：把握位置感](https://mp.weixin.qq.com/s?__biz=MzAxNjAwNTMwNQ==&mid=2652384917&idx=1&sn=d3a7de104f3d6c9920cc2d5961d1b1d3&chksm=8182d4c46c94e052583bb86c6a82a14070fe3404b0288ac0f6bf9b239cec4752bda24f01bcb6&scene=90&xtrack=1&sessionid=1756455045&subscene=93&clicktime=1756455128&enterid=1756455128&flutter_pos=5&biz_enter_id=4&ranksessionid=1756455051&jumppath=1001_1756455043263%2C1104_1756455046123%2C20020_1756455051058%2C1104_1756455114123&jumppathdepth=4&ascene=56&devicetype=iOS18.6.1&version=18003e34&nettype=3G+&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQVfmeuKIqsKZifWZTFD455RLYAQIE97dBBAEAAAAAAJqVD5x8cSQAAAAOpnltbLcz9gKNyK89dVj0ltlQo1l9BUdl0b9q2P1I3fV%2FkX7GBFxe33bZgQaKrWsciI29mpFR6rTvx8FKxtBfGNJFlvRXIt8qcJWR4ahPMAaDO1JK%2B6dK5T7UDJmQMSL0O5BPEFuQ0vRtBuDW0%2BsEacGzdtABdyo3K00QHscsvss2W%2FXmrG8zSd763Pzc1XiVzMrJjGUqWhAhQMeUkMQiCBv05Zp5BHY43%2F8erDYoh45inZiSUj%2BnW7J7dnCfHn9avQ%3D%3D&pass_ticket=tzI99pzn8kMAy1USkh8Yg31Tuok2EW8viFc9Fb%2FCHM7CwM7GnjD8k4emu25WQp%2Fz&wx_header=3)
+-  [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
+- [申万|拥挤度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/congestion/sw)
+- [申万2021版|交易热度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/trading-heat/sw-2021)
+- [行业经济数据 - 萝卜投研](https://robo.datayes.com/v2/landing/industrygrp)
+- [股市行业分析 - 萝卜投研](https://robo.datayes.com/v2/industry)
 
 ### 技术分析
 - [操盘手记：分时图交易实战精解 - 陈培树 - 微信读书](https://weread.qq.com/web/reader/b8532880717d2e6db854489)
@@ -70,10 +80,6 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
 - [指数涨幅统计 - 集思录](https://www.jisilu.cn/data/idx_performance/#idx)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
-- [行业全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=52409)
-- [申万|拥挤度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/congestion/sw)
-- [申万2021版|交易热度|行业 - 理杏仁](https://www.lixinger.com/analytics/industry/dashboard/trading-heat/sw-2021)
-- [股市行业分析 - 萝卜投研](https://robo.datayes.com/v2/industry)
 - [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
 - [A股历史两市成交额走势曲线图 —— 海龟投资](http://www.haiguitouzi.com/data_chart/amount.html)
 - [债市历史温度 - 有知有行](https://youzhiyouxing.cn/data/macro)

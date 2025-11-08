@@ -123,6 +123,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 ## 🛠️ Tool
 - [慧博投研资讯](https://www.hibor.com.cn/)
+- [乌龟量化_股票、指数、行业和基金的估值数据](https://wglh.com/)
 - [[choice金融终端]]
 - [朝阳永续-让数据更有价值](https://www.go-goal.com/product/gogoal)
 - [企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)

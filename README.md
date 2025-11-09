@@ -136,6 +136,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [Get笔记](https://www.biji.com/note)
 - [秘塔AI搜索](https://metaso.cn/)
 - [搜狗微信搜索](https://weixin.sogou.com/)
+- [纳米AI](https://www.n.cn/)
 - [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)
 - [同花顺问财](https://www.iwencai.com/unifiedwap/home/index)
 - [条件选股](https://xuangu.eastmoney.com/)

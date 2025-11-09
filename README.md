@@ -89,6 +89,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [基金排名 - 天天基金网](https://fund.eastmoney.com/data/fundranking.html)
 - [基金数据-基金回报率统计_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1937A48.html#A0A1934A1937)
 - [基金重仓(持仓大于5%)-最新重仓_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1939A5816A5817.html)
+- [基金 CT](https://youzhiyouxing.cn/x/ct)
 - [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
 - [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
 - [中国经济指标列表-最新发布-聚金数据](https://www.jujindata.com/country/china/overview)

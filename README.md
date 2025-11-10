@@ -95,6 +95,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [中国经济指标列表-最新发布-聚金数据](https://www.jujindata.com/country/china/overview)
 
 ### 资讯报道
+- [财联社A股24小时电报-上市公司动态-今日股市行情报道](https://www.cls.cn/telegraph)
 - [财新网](https://www.caixin.com/)
 - [证券市场周刊-证券专业媒体](https://www.weeklyonstock.com/)
 

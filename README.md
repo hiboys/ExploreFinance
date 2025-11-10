@@ -84,7 +84,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [指数涨幅统计 - 集思录](https://www.jisilu.cn/data/idx_performance/#idx)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 - [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
-- [沪股通-南向资金历史净买入-月线](https://data.10jqka.com.cn/hgt/hgtb/)
+- [沪股通-南向资金历史净买入-月线_同花顺数据中心](https://data.10jqka.com.cn/hgt/hgtb/)
 - [A股历史两市成交额走势曲线图 —— 海龟投资](http://www.haiguitouzi.com/data_chart/amount.html)
 - [债市历史温度 - 有知有行](https://youzhiyouxing.cn/data/macro)
 - [基金排名 - 天天基金网](https://fund.eastmoney.com/data/fundranking.html)

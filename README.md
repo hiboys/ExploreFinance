@@ -39,6 +39,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [打开心智 - 李睿秋 - 微信读书](https://weread.qq.com/web/reader/d13322c072b449f7d13b204)
 - [文化性动物：人类的本性、意义与社会生活 - 罗伊·F·鲍迈斯特 - 微信读书](https://weread.qq.com/web/reader/553323d07263e27b553f730)
 - [如何找到想做的事 - [日]八木仁平 - 微信读书](https://weread.qq.com/web/reader/71a32fb0813ab8de8g019cc9)
+
 ### 研究报告
 - [慧博投研资讯](https://www.hibor.com.cn/)
 - [水滴研报-图表搜索](https://www.sdyanbao.com/chart)
@@ -84,11 +85,10 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [指数涨幅统计 - 集思录](https://www.jisilu.cn/data/idx_performance/#idx)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 - [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
-- [沪股通-南向资金历史净买入-月线_同花顺数据中心](https://data.10jqka.com.cn/hgt/hgtb/)
+- [沪股通-南向资金历史净买入-月线_同花顺数据](https://data.10jqka.com.cn/hgt/hgtb/)
 - [A股历史两市成交额走势曲线图 —— 海龟投资](http://www.haiguitouzi.com/data_chart/amount.html)
 - [债市历史温度 - 有知有行](https://youzhiyouxing.cn/data/macro)
 - [基金排名 - 天天基金网](https://fund.eastmoney.com/data/fundranking.html)
-- [基金数据-基金回报率统计_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1937A48.html#A0A1934A1937)
 - [基金重仓(持仓大于5%)-最新重仓_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1939A5816A5817.html)
 - [基金 CT](https://youzhiyouxing.cn/x/ct)
 - [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)

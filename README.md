@@ -82,6 +82,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 数据分析
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
 - [全部市场换手率中位数日统计](https://quote.cfi.cn/data_ndkA0A1934A1935A137.html#A0A1934A1935)
+- [A股全市场统计历史 - 集思录](https://www.jisilu.cn/data/idx_performance/stat/)
 - [指数涨幅统计 - 集思录](https://www.jisilu.cn/data/idx_performance/#idx)
 - [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
 - [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)

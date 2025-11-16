@@ -133,6 +133,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [飞书多维表格-数据分析](https://docs.feishu.cn/welcome)
 - Obsidian
 - 微信读书
+- [腾讯文档](https://docs.qq.com/)
 - [Get笔记](https://www.biji.com/note)
 - [秘塔AI搜索](https://metaso.cn/)
 - [搜狗微信搜索](https://weixin.sogou.com/)

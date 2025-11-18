@@ -95,6 +95,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
 - [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
 - [中国经济指标列表-最新发布-聚金数据](https://www.jujindata.com/country/china/overview)
+- [存款利率一览表](https://bank.cngold.org/yhckll/)
 
 ### 资讯报道
 - [财联社A股24小时电报-上市公司动态-今日股市行情报道](https://www.cls.cn/telegraph)
@@ -137,6 +138,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [Get笔记](https://www.biji.com/note)
 - [秘塔AI搜索](https://metaso.cn/)
 - [千问-Qwen最新模型体验-通义千问](https://www.tongyi.com/qianwen)
+- [AI小二](https://aixiaoer.go-goal.cn/chat/entry/etf)
 - [搜狗微信搜索](https://weixin.sogou.com/)
 - [纳米AI](https://www.n.cn/)
 - [深度数据](https://web.tinysoft.com.cn/website/index.tsl?PageID=52173)

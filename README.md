@@ -81,6 +81,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 ### 数据分析
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
+- [恐贪指数_估值情绪 _韭圈儿](https://funddb.cn/tool/fear)
 - [全部市场换手率中位数日统计](https://quote.cfi.cn/data_ndkA0A1934A1935A137.html#A0A1934A1935)
 - [A股全市场统计历史 - 集思录](https://www.jisilu.cn/data/idx_performance/stat/)
 - [申万指数](https://www.swsresearch.com/institute_sw/allIndex/releasedIndex)

@@ -84,6 +84,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 数据分析
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
 - [大盘拥挤度指标_成交额排名前5%的个股的成交额占全部A股占比_乐咕乐股网](https://legulegu.com/stockdata/ashares-congestion)
+- [破净股历史统计_破净股数量_金融量化_乐咕乐股网](https://legulegu.com/stockdata/below-net-asset-statistics?marketId=1)
 - [恐贪指数_估值情绪 _韭圈儿](https://funddb.cn/tool/fear)
 - [全部市场换手率中位数日统计](https://quote.cfi.cn/data_ndkA0A1934A1935A137.html#A0A1934A1935)
 - [A股全市场统计历史 - 集思录](https://www.jisilu.cn/data/idx_performance/stat/)

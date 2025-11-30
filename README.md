@@ -72,6 +72,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [沪深股市行业热点日均涨幅统计](https://quote.cfi.cn/data_ndkA0A1934A1935A35.html#A0A1934A1935)
 - [市场统计-上市公司行业景气排行榜_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1935A61.html#A0A1934A1935)
 - [行业图表数据 - 市场容量、产业链、竞争格局、技术变革、商业模式_行行查 ](https://www.hanghangcha.com/industry)
+- [市场宽度（A股）_申万1级_每日更新_乐咕乐股网](https://legulegu.com/stockdata/sw-market-width)
 
 ### 技术分析
 - [操盘手记：分时图交易实战精解 - 陈培树 - 微信读书](https://weread.qq.com/web/reader/b8532880717d2e6db854489)
@@ -82,6 +83,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 ### 数据分析
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
+- [大盘拥挤度指标_成交额排名前5%的个股的成交额占全部A股占比_乐咕乐股网](https://legulegu.com/stockdata/ashares-congestion)
 - [恐贪指数_估值情绪 _韭圈儿](https://funddb.cn/tool/fear)
 - [全部市场换手率中位数日统计](https://quote.cfi.cn/data_ndkA0A1934A1935A137.html#A0A1934A1935)
 - [A股全市场统计历史 - 集思录](https://www.jisilu.cn/data/idx_performance/stat/)
@@ -101,6 +103,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
 - [中国经济指标列表-最新发布-聚金数据](https://www.jujindata.com/country/china/overview)
 - [存款利率一览表](https://bank.cngold.org/yhckll/)
+- [沪深300指数波段分析_乐咕乐股网](https://legulegu.com/stockdata/market-analysis-hs300)
 
 ### 资讯报道
 - [财联社A股24小时电报-上市公司动态-今日股市行情报道](https://www.cls.cn/telegraph)
@@ -138,6 +141,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [慧博投研资讯](https://www.hibor.com.cn/)
 - [乌龟量化_股票、指数、行业和基金的估值数据](https://wglh.com/)
 - [知了财报网 - 专研A股财务分析](https://www.zhiliaocaibao.com/)
+- [乐咕乐股网](https://legulegu.com/)
 - [[choice金融终端]]
 - [朝阳永续-让数据更有价值](https://www.go-goal.com/product/gogoal)
 - [企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)

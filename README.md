@@ -147,6 +147,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [朝阳永续-让数据更有价值](https://www.go-goal.com/product/gogoal)
 - [企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)
 - [数据中心 _ 东方财富网](https://data.eastmoney.com/center/)
+- [TRAE - The Real AI Engineer-数据分析](https://www.trae.cn/)
 - [飞书多维表格-数据分析](https://docs.feishu.cn/welcome)
 - Obsidian
 - 微信读书

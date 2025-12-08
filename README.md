@@ -43,7 +43,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 研究报告
 - [慧博投研资讯](https://www.hibor.com.cn/)
 - [水滴研报-图表搜索](https://www.sdyanbao.com/chart)
-- [慧博智能策略终端](https://www.hibor.com.cn/soft/download.html)-AI研报速读
+- [慧博智能策略终端](https://www.hibor.com.cn/soft/download.html)
 - [研究是一门艺术 - 韦恩·布斯 格雷戈里·卡洛姆 约瑟夫·威廉姆斯 - 微信读书](https://weread.qq.com/web/reader/db432e10813ab6c3fg015221)
 - [底层逻辑2：理解商业世界的本质 - 刘润 - 微信读书](https://weread.qq.com/web/reader/0b0322e0813ab7435g0197d8)
 - [投资尽职调查：投资逻辑、尽调方法、实战案例 - 戚威 - 微信读书](https://weread.qq.com/web/reader/47d328d0813ab6e43g01891b)
@@ -81,31 +81,46 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [交易至”简”：交易思维模式训练与实战心法 - 简放 - 微信读书](https://weread.qq.com/web/reader/44f32fc0813ab844ag01741f)
 - [以交易为生（原书第2版） - 亚历山大·埃尔德 - 微信读书](https://weread.qq.com/web/reader/8fa32a205dde488fa6bc2a6)
 
-### 数据分析
+### 观察体系
+
+#### 市场
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
 - [A股风格因子](https://web.tinysoft.com.cn/website/index.tsl?PageID=52751)
-- [大盘拥挤度指标_成交额排名前5%的个股的成交额占全部A股占比_乐咕乐股网](https://legulegu.com/stockdata/ashares-congestion)
 - [破净股历史统计_破净股数量_金融量化_乐咕乐股网](https://legulegu.com/stockdata/below-net-asset-statistics?marketId=1)
-- [恐贪指数_估值情绪 _韭圈儿](https://funddb.cn/tool/fear)
-- [全部市场换手率中位数日统计](https://quote.cfi.cn/data_ndkA0A1934A1935A137.html#A0A1934A1935)
 - [A股全市场统计历史 - 集思录](https://www.jisilu.cn/data/idx_performance/stat/)
+- [A股历史两市成交额走势曲线图 —— 海龟投资](http://www.haiguitouzi.com/data_chart/amount.html)
+
+#### 估值
+- [指数估值 _韭圈儿](https://funddb.cn/site/index)
+- [股债性比_韭圈儿](https://funddb.cn/site/fed)
+- [指数估值 - ETF.run](https://www.etf.run/)
+- [债市历史温度 - 有知有行](https://youzhiyouxing.cn/data/macro)
+
+#### 情绪
+- [恐贪指数 _韭圈儿](https://funddb.cn/tool/fear)
+- [全部市场换手率中位数日统计](https://quote.cfi.cn/data_ndkA0A1934A1935A137.html#A0A1934A1935)
+- [大盘拥挤度指标_成交额排名前5%的个股的成交额占全部A股占比_乐咕乐股网](https://legulegu.com/stockdata/ashares-congestion)
+
+#### 资金
+- [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
+- [沪股通-南向资金历史净买入-月线_同花顺数据](https://data.10jqka.com.cn/hgt/hgtb/)
+- [基金重仓(持仓大于5%)-最新重仓_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1939A5816A5817.html)
+- [存款利率一览表](https://bank.cngold.org/yhckll/)
+
+#### 指数
 - [申万指数](https://www.swsresearch.com/institute_sw/allIndex/releasedIndex)
 - [万得指数](https://www.windindices.com/indices/zh/WindIndex)
 - [万得推荐指数](https://www.windindices.com/indices/zh/)
 - [指数涨幅统计 - 集思录](https://www.jisilu.cn/data/idx_performance/#idx)
-- [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
-- [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
-- [沪股通-南向资金历史净买入-月线_同花顺数据](https://data.10jqka.com.cn/hgt/hgtb/)
-- [A股历史两市成交额走势曲线图 —— 海龟投资](http://www.haiguitouzi.com/data_chart/amount.html)
-- [债市历史温度 - 有知有行](https://youzhiyouxing.cn/data/macro)
-- [基金排名 - 天天基金网](https://fund.eastmoney.com/data/fundranking.html)
-- [基金重仓(持仓大于5%)-最新重仓_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1939A5816A5817.html)
-- [基金 CT](https://youzhiyouxing.cn/x/ct)
-- [牛叉诊股-个股分析利器_同花顺财经](https://doctor.10jqka.com.cn/)
-- [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
-- [中国经济指标列表-最新发布-聚金数据](https://www.jujindata.com/country/china/overview)
-- [存款利率一览表](https://bank.cngold.org/yhckll/)
 - [沪深300指数波段分析_乐咕乐股网](https://legulegu.com/stockdata/market-analysis-hs300)
+
+#### 基金
+- [ETF全景报告](https://web.tinysoft.com.cn/website/index.tsl?PageID=54667)
+- [基金排名 - 天天基金网](https://fund.eastmoney.com/data/fundranking.html)
+- [基金 CT](https://youzhiyouxing.cn/x/ct)
+
+#### 宏观
+- [中国经济指标列表-最新发布-聚金数据](https://www.jujindata.com/country/china/overview)
 
 ### 资讯报道
 - [财联社A股24小时电报-上市公司动态-今日股市行情报道](https://www.cls.cn/telegraph)
@@ -166,4 +181,4 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [财经日历-金十数据](https://rili.jin10.com/)
 - [复盘_股票_同花顺财经](https://stock.10jqka.com.cn/fupan/)
 - [开源财经数据接口库AKShare](https://akshare.akfamily.xyz/index.html)
-- [指数估值 - ETF.run](https://www.etf.run/)
+- [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)

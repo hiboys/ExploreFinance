@@ -23,6 +23,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 以下是一些涉猎过的投资书籍，大多在微信读书。部分相对专业难懂，阅读过程可借助微信读书AI，降低一点困难感，比如：阅读一章前，通过AI总结一下章节的核心观点、关键概念。
 
 ### 金融投资
+- [构建投资体系（文章集合）](https://xueqiu.com/8789404130/288809521)
 - [投资第1课 - 孟岩 - 微信读书](https://weread.qq.com/web/reader/89b322f0813aba568g0116d0)
 - [金钱心理学：财富、人性和幸福的永恒真相 - 摩根·豪泽尔 - 微信读书](https://weread.qq.com/web/reader/6ab326d0813ab7f97g014662)
 - [投资有规律：从商业模式出发（第2版） - 肖志刚 - 微信读书](https://weread.qq.com/web/reader/43032200813ab78aeg014b1e)
@@ -72,7 +73,6 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [沪深股市行业热点日均涨幅统计](https://quote.cfi.cn/data_ndkA0A1934A1935A35.html#A0A1934A1935)
 - [市场统计-上市公司行业景气排行榜_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1935A61.html#A0A1934A1935)
 - [行业图表数据 - 市场容量、产业链、竞争格局、技术变革、商业模式_行行查 ](https://www.hanghangcha.com/industry)
-- [市场宽度（A股）_申万1级_每日更新_乐咕乐股网](https://legulegu.com/stockdata/sw-market-width)
 
 ### 技术分析
 - [操盘手记：分时图交易实战精解 - 陈培树 - 微信读书](https://weread.qq.com/web/reader/b8532880717d2e6db854489)
@@ -84,6 +84,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 ### 观察体系
 
 #### 市场
+- [市场宽度（A股）_申万1级](https://legulegu.com/stockdata/sw-market-width)
 - [市场概览](https://web.tinysoft.com.cn/website/index.tsl?PageID=48672)
 - [A股风格因子](https://web.tinysoft.com.cn/website/index.tsl?PageID=52751)
 - [破净股历史统计_破净股数量_金融量化_乐咕乐股网](https://legulegu.com/stockdata/below-net-asset-statistics?marketId=1)
@@ -102,6 +103,7 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [大盘拥挤度指标_成交额排名前5%的个股的成交额占全部A股占比_乐咕乐股网](https://legulegu.com/stockdata/ashares-congestion)
 
 #### 资金
+- [沪深融资余额/流通市值走势图](http://value500.com/rzrj2.html)
 - [大盘资金流向一览(沪深两市) _ 数据中心 _ 东方财富网](https://data.eastmoney.com/zjlx/dpzjlx.html)
 - [沪股通-南向资金历史净买入-月线_同花顺数据](https://data.10jqka.com.cn/hgt/hgtb/)
 - [基金重仓(持仓大于5%)-最新重仓_数据引擎_中财网CFI.CN](https://quote.cfi.cn/data_ndkA0A1934A1939A5816A5817.html)
@@ -156,12 +158,14 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 
 ## 🛠️ Tool
 - [慧博投研资讯](https://www.hibor.com.cn/)
+- [通达信金融终端](https://www.tdx.com.cn/soft.html)
 - [乌龟量化_股票、指数、行业和基金的估值数据](https://wglh.com/)
 - [知了财报网 - 专研A股财务分析](https://www.zhiliaocaibao.com/)
 - [乐咕乐股网](https://legulegu.com/)
 - [[choice金融终端]]
 - [朝阳永续-让数据更有价值](https://www.go-goal.com/product/gogoal)
 - [企业预警通，精准预警·专业极速](https://www.qyyjt.cn/)
+- [通达信数据中心](https://www.tdx.com.cn/data_center.html)
 - [数据中心 _ 东方财富网](https://data.eastmoney.com/center/)
 - [TRAE - The Real AI Engineer-数据分析](https://www.trae.cn/)
 - [飞书多维表格-数据分析](https://docs.feishu.cn/welcome)

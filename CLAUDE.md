@@ -58,3 +58,17 @@ When editing or creating notes:
 2. Use relative links for attachments: `attachment/filename.pdf`
 3. Preserve frontmatter metadata if present
 4. Follow the existing folder organization by topic area
+
+## 网页工具
+
+### 公允价值
+用默认浏览器打开：https://www.gurufocus.cn/stock/{stockCode}/summary
+example：https://www.gurufocus.cn/stock/000001/summary
+
+### 景气/财务/估值数据库
+用默认浏览器打开：http://www.cllstrategy.com/data.html
+
+### 红色火箭基本面
+用默认浏览器打开：https://www.etf818.com/red-rocket/indexDetail?securityCode={stockCode}.{market}
+example: https://www.etf818.com/red-rocket/indexDetail?securityCode=000001.SH
+

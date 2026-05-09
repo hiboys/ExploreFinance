@@ -1,0 +1,7 @@
+{
+  "skills_index_url": "",
+  "skills_search_url": "",
+  "skills_primary_download_url_template": "http://ms.10jqka.com.cn/gateway/market/api/v1/skills/square/download?name={slug}",
+  "skills_download_url_template": "",
+  "self_update_manifest_url": ""
+}

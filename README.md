@@ -188,3 +188,4 @@ ExploreFinance是一个知识分享性项目，源自一个计算机专业出身
 - [复盘_股票_同花顺财经](https://stock.10jqka.com.cn/fupan/)
 - [开源财经数据接口库AKShare](https://akshare.akfamily.xyz/index.html)
 - [中经数据-专注中国宏观经济统计数据30年](https://ceidata.cei.cn/)
+- [妙想金融数据skill](https://ai.eastmoney.com/skills)

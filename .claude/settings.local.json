@@ -2,7 +2,23 @@
   "permissions": {
     "allow": [
       "Bash(start *)",
-      "Bash(pip install *)"
+      "Bash(pip install *)",
+      "Bash(python3 *)",
+      "Bash(python *)",
+      "Bash(iwencai --version)",
+      "Bash(iwencai-skillhub --version)",
+      "WebFetch(domain:www.iwencai.com)",
+      "Bash(curl -fsSL https://www.iwencai.com/skillhub/static/0.0.4/download_and_install.sh -o /tmp/install_iwencai.sh)",
+      "Read(//tmp/**)",
+      "Bash(unzip -l aime-skillhub-cli.zip)",
+      "Bash(unzip -o aime-skillhub-cli.zip)",
+      "Bash(mkdir -p /tmp/iwencai_install)",
+      "Bash(curl -fsSL https://www.iwencai.com/skillhub/static/0.0.4/iwencai-skillhub-cli.zip -o iwencai.zip)",
+      "Bash(unzip -o iwencai.zip)",
+      "Bash(bash *)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "Bash(iwencai-skillhub-cli install *)",
+      "Bash(iwencai-skillhub-cli --help)"
     ]
   }
 }

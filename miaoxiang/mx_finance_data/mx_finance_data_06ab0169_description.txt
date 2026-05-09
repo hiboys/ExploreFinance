@@ -1,0 +1,8 @@
+金融数据查询结果说明
+========================================
+查询内容: 查询上证指数、深证成指、创业板指的最新实时行情数据，包括现价、涨跌幅、成交量、成交额等指标
+数据文件路径: C:\Users\Eason\IdeaProjects\ExploreFinance\miaoxiang\mx_finance_data\mx_finance_data_06ab0169.xlsx
+描述文件路径: C:\Users\Eason\IdeaProjects\ExploreFinance\miaoxiang\mx_finance_data\mx_finance_data_06ab0169_description.txt
+数据行数: 42
+表数量: 9
+Sheet 列表: 上证指数(000001.SH)的成交量、成交额等, 深证成指(399001.SZ)的成交量、成交额等, 创业板指(399006.SZ)的成交量、成交额等, 上证指数(000001.SH)的区间涨跌幅、区间成交量等, 深证成指(399001.SZ)的区间涨跌幅、区间成交量等, 创业板指(399006.SZ)的区间涨跌幅、区间成交量等, 上证指数(000001.SH)的BOLL布林线LOW、BOLL, 深证成指(399001.SZ)的BOLL布林线LOW、BOLL, 创业板指(399006.SZ)的BOLL布林线LOW、BOLL

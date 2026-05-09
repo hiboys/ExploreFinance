@@ -18,7 +18,8 @@
       "Bash(bash *)",
       "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
       "Bash(iwencai-skillhub-cli install *)",
-      "Bash(iwencai-skillhub-cli --help)"
+      "Bash(iwencai-skillhub-cli --help)",
+      "Bash(pip3 install *)"
     ]
   }
 }

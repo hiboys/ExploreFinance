@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start *)",
+      "Bash(pip install *)"
+    ]
+  }
+}

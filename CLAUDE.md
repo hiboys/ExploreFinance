@@ -84,3 +84,9 @@ start "" "https://www.zhiliaocaibao.com/hyfx/9_18_18_18/"
 ### 知了指数分析
 start "" "https://www.zhiliaocaibao.com/gpzs_fl/9_rmjj_%E5%85%A8%E9%83%A8/"
 
+### 巨潮资讯
+start "" "https://www.cninfo.com.cn/new/fulltextSearch?notautosubmit=&keyWord={keyword}"
+
+### 杜邦分析
+start "" "https://vip.stock.finance.sina.com.cn/corp/go.php/vFD_DupontAnalysis/stockid/{stockCode}/displaytype/10.phtml"
+

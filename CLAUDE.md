@@ -2,6 +2,9 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## 运行环境
+wsl
+
 ## Project Overview
 
 ExploreFinance is an Obsidian vault for personal finance and investment knowledge management. The project documents learning materials, research notes, and practical frameworks for ETF investment in the Chinese securities market. Content is primarily in Simplified Chinese.

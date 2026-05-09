@@ -72,3 +72,6 @@ example：https://www.gurufocus.cn/stock/000001/summary
 用默认浏览器打开：https://www.etf818.com/red-rocket/indexDetail?securityCode={stockCode}.{market}
 example: https://www.etf818.com/red-rocket/indexDetail?securityCode=000001.SH
 
+### 财联社/cls搜索
+start "" "https://www.cls.cn/searchPage?keyword={keyword}&type=all"
+

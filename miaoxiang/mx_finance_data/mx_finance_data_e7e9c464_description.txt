@@ -1,8 +1,0 @@
-金融数据查询结果说明
-========================================
-查询内容: 查询通信行业龙头股票中兴通讯、中国移动、中国电信、亨通光电、中际旭创的最新股价、涨跌幅、市值、PE估值等数据
-数据文件路径: C:\Users\Eason\IdeaProjects\ExploreFinance\miaoxiang\mx_finance_data\mx_finance_data_e7e9c464.xlsx
-描述文件路径: C:\Users\Eason\IdeaProjects\ExploreFinance\miaoxiang\mx_finance_data\mx_finance_data_e7e9c464_description.txt
-数据行数: 20
-表数量: 5
-Sheet 列表: 中兴通讯(000063.SZ)的总市值、收盘价等, 中兴通讯(00763.HK)的总市值、收盘价等, 中国移动(600941.SH)的总市值、收盘价等, 中国电信(601728.SH)的总市值、收盘价等, 亨通光电(600487.SH)的总市值、收盘价等

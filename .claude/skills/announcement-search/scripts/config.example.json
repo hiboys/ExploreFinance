@@ -1,0 +1,39 @@
+{
+  "api": {
+    "base_url": "https://openapi.iwencai.com",
+    "endpoint": "/v1/comprehensive/search",
+    "timeout": 30,
+    "max_retries": 3
+  },
+  "auth": {
+    "api_key_env_var": "IWENCAI_API_KEY",
+    "api_key": "your_api_key_here"
+  },
+  "search": {
+    "channels": ["announcement"],
+    "app_id": "AIME_SKILL",
+    "default_limit": 10,
+    "max_limit": 50
+  },
+  "output": {
+    "default_format": "csv",
+    "supported_formats": ["csv", "json", "txt"],
+    "date_format": "%Y-%m-%d %H:%M:%S",
+    "encoding": "utf-8"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file": "announcement_search.log"
+  },
+  "cache": {
+    "enabled": false,
+    "ttl": 3600,
+    "cache_dir": ".cache"
+  },
+  "performance": {
+    "max_concurrent_requests": 5,
+    "request_delay": 0.5,
+    "batch_size": 10
+  }
+}

@@ -1,0 +1,132 @@
+agents:
+  trader:
+    name: 资深交易员
+    description: 国内头部资管机构资深交易员，专注于交易执行、滑点控制和成本优化。适用于交易计划制定、执行策略分析、风险管理、复盘分析等场景。
+    prompt_file: .claude/agents/trader.md
+    model: sonnet
+    tools:
+      - Read
+      - Write
+      - Edit
+      - Grep
+      - Glob
+      - Bash
+      - WebSearch
+      - WebFetch
+    skills:
+      - mx-finance-data
+      - mx-macro-data
+      - stock-diagnosis
+      - fund-diagnosis
+      - stock-market-hotspot-discovery
+      - industry-research-report
+      - mx-stocks-screener
+    capabilities:
+      - 交易计划制定与审核
+      - 执行策略分析（VWAP/TWAP/POV等）
+      - 滑点与成本分析
+      - 风险管理与止损策略
+      - 交易复盘与日志分析
+      - 市场微观结构分析
+      - 执行纪律检查与提醒
+
+  researcher:
+    name: 买方研究员
+    description: 国内头部公募/私募基金行业研究员，专注深度研究、公司分析和投资决策支持。适用于公司研究、行业分析、财务建模、投资逻辑梳理等场景。
+    prompt_file: .claude/agents/researcher.md
+    model: sonnet
+    tools:
+      - Read
+      - Write
+      - Edit
+      - Grep
+      - Glob
+      - Bash
+      - WebSearch
+      - WebFetch
+    skills:
+      - mx-finance-data
+      - mx-macro-data
+      - stock-diagnosis
+      - fund-diagnosis
+      - industry-research-report
+      - comparable-company-analysis
+      - mx-stocks-screener
+      - topic-research-report
+      - initiation-of-coverage-or-deep-dive
+    capabilities:
+      - 公司深度研究与分析
+      - 行业研究与景气度评估
+      - 财务建模与估值分析
+      - 投资逻辑梳理与验证
+      - 可比公司分析
+      - 风险识别与利空清单构建
+      - 研究跟踪与定期更新
+
+  cio:
+    name: 首席投资官
+    description: 国内头部资管机构CIO，负责资产配置、组合管理和投资决策。适用于资产配置策略、组合优化、风险管理、宏观研判等场景。
+    prompt_file: .claude/agents/cio.md
+    model: sonnet
+    tools:
+      - Read
+      - Write
+      - Edit
+      - Grep
+      - Glob
+      - Bash
+      - WebSearch
+      - WebFetch
+    skills:
+      - mx-finance-data
+      - mx-macro-data
+      - stock-diagnosis
+      - fund-diagnosis
+      - industry-research-report
+      - comparable-company-analysis
+      - mx-stocks-screener
+      - topic-research-report
+      - initiation-of-coverage-or-deep-dive
+      - investment-advisor
+    capabilities:
+      - 战略资产配置（SAA）与战术资产配置（TAA）
+      - 组合风险管理与压力测试
+      - 宏观研判与政策解读
+      - 业绩归因与组合优化
+      - 投资决策与仓位管理
+      - 风险预算分配与管理
+      - 跨资产类别投资决策
+
+  fund_manager:
+    name: 基金经理
+    description: 国内头部公募/私募基金的股票型基金经理，负责组合构建、个股选择和行业配置。适用于投资决策、组合管理、个股精选、行业轮动等场景。
+    prompt_file: .claude/agents/fund_manager.md
+    model: sonnet
+    tools:
+      - Read
+      - Write
+      - Edit
+      - Grep
+      - Glob
+      - Bash
+      - WebSearch
+      - WebFetch
+    skills:
+      - mx-finance-data
+      - mx-macro-data
+      - stock-diagnosis
+      - fund-diagnosis
+      - industry-research-report
+      - comparable-company-analysis
+      - mx-stocks-screener
+      - topic-research-report
+      - initiation-of-coverage-or-deep-dive
+      - investment-advisor
+    capabilities:
+      - 个股精选与投资决策
+      - 行业配置与轮动策略
+      - 组合构建与风险管理
+      - 投资备忘录撰写与管理
+      - 估值分析与安全边际评估
+      - 核心池与观察池管理
+      - 业绩归因与持仓复盘

@@ -2,3 +2,15 @@
 .obsidian
 temp_download/
 miaoxiang/
+
+# Claude Code
+.claude/skills/.skills_store_lock.json
+.claude/skills/**/__MACOSX/
+.claude/skills/**/__pycache__/
+.claude/skills/**/*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.log

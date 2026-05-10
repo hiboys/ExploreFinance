@@ -65,10 +65,12 @@ example: https://www.etf818.com/red-rocket/indexDetail?securityCode=000001.SH
 ### 财联社/cls搜索
 start "" "https://www.cls.cn/searchPage?keyword={keyword}&type=all"
 
-### 知了行业分析
+### 知了财报
+
+#### 行业分析
 start "" "https://www.zhiliaocaibao.com/hyfx/9_18_18_18/"
 
-### 知了指数分析
+#### 指数分析
 start "" "https://www.zhiliaocaibao.com/gpzs_fl/9_rmjj_%E5%85%A8%E9%83%A8/"
 
 ### 巨潮资讯
@@ -79,4 +81,16 @@ start "" "https://vip.stock.finance.sina.com.cn/corp/go.php/vFD_DupontAnalysis/s
 
 ### 大盘拥挤度
 start "" "https://legulegu.com/stockdata/ashares-congestion"
+
+### 百度FinScope
+
+#### 股票分析
+start "" "https://finance.baidu.com/stock/ab-{stockCode}"
+
+#### 指数分析
+start "" "https://finance.baidu.com/index/ab-{indexCode}"
+
+#### 板块分析
+blockCode是申万行业代码（最新版）
+start "" "https://finance.baidu.com/block/ab-{blockCode}"
 

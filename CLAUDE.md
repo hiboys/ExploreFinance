@@ -2,9 +2,6 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## 运行环境
-wsl
-
 ## Project Overview
 
 ExploreFinance is an Obsidian vault for personal finance and investment knowledge management. The project documents learning materials, research notes, and practical frameworks for ETF investment in the Chinese securities market. Content is primarily in Simplified Chinese.
@@ -36,16 +33,6 @@ Additional folders:
 - Live preview mode
 - Attachments stored in `./attachment` subfolder relative to notes
 - New files created in current folder
-
-## Key Plugins
-
-- **obsidian-git**: Automatic version control and backup
-- **dataview**: Query and display notes as data
-- **templater-obsidian**: Template automation
-- **obsidian-tasks-plugin**: Task management with TODO syntax
-- **periodic-notes**: Daily/weekly/monthly notes
-- **quickadd**: Quick note capture
-- **obsidian-hypothesis-plugin**: Web article annotations via Hypothes.is
 
 ## File Conventions
 
@@ -89,4 +76,7 @@ start "" "https://www.cninfo.com.cn/new/fulltextSearch?notautosubmit=&keyWord={k
 
 ### 杜邦分析
 start "" "https://vip.stock.finance.sina.com.cn/corp/go.php/vFD_DupontAnalysis/stockid/{stockCode}/displaytype/10.phtml"
+
+### 大盘拥挤度
+start "" "https://legulegu.com/stockdata/ashares-congestion"
 

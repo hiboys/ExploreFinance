@@ -35,7 +35,8 @@
       "Bash(mkdir -p .claude/agents)",
       "WebFetch(domain:www.cls.cn)",
       "Bash(mcporter call *)",
-      "Bash(sort -t_ -k3 -r)"
+      "Bash(sort -t_ -k3 -r)",
+      "Skill(mx-finance-data)"
     ],
     "additionalDirectories": [
       "C:\\Users\\Eason\\IdeaProjects\\ExploreFinance\\.claude"

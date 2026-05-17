@@ -48,49 +48,6 @@ When editing or creating notes:
 2. Use relative links for attachments: `attachment/filename.pdf`
 3. Preserve frontmatter metadata if present
 4. Follow the existing folder organization by topic area
+5. 先搜索笔记中是否有相关内容。如果没有，看在哪个文件夹记录笔记合适
 
-## 网页工具
-
-### 公允价值
-start "" "https://www.gurufocus.cn/stock/{stockCode}/summary"
-example：https://www.gurufocus.cn/stock/000001/summary
-
-### 景气/财务/估值数据库
-start "" "http://www.cllstrategy.com/data.html"
-
-### 红色火箭基本面
-start "" "https://www.etf818.com/red-rocket/indexDetail?securityCode={stockCode}.{market}"
-example: https://www.etf818.com/red-rocket/indexDetail?securityCode=000001.SH
-
-### 财联社/cls搜索
-start "" "https://www.cls.cn/searchPage?keyword={keyword}&type=all"
-
-### 知了财报
-
-#### 行业分析
-start "" "https://www.zhiliaocaibao.com/hyfx/9_18_18_18/"
-
-#### 指数分析
-start "" "https://www.zhiliaocaibao.com/gpzs_fl/9_rmjj_%E5%85%A8%E9%83%A8/"
-
-### 巨潮资讯
-start "" "https://www.cninfo.com.cn/new/fulltextSearch?notautosubmit=&keyWord={keyword}"
-
-### 杜邦分析
-start "" "https://vip.stock.finance.sina.com.cn/corp/go.php/vFD_DupontAnalysis/stockid/{stockCode}/displaytype/10.phtml"
-
-### 大盘拥挤度
-start "" "https://legulegu.com/stockdata/ashares-congestion"
-
-### 百度FinScope
-
-#### 股票分析
-start "" "https://finance.baidu.com/stock/ab-{stockCode}"
-
-#### 指数分析
-start "" "https://finance.baidu.com/index/ab-{indexCode}"
-
-#### 板块分析
-blockCode是申万行业代码（最新版）
-start "" "https://finance.baidu.com/block/ab-{blockCode}"
 

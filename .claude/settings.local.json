@@ -38,7 +38,10 @@
       "Bash(sort -t_ -k3 -r)",
       "Skill(mx-finance-data)",
       "mcp__plugin_claude-mem_mcp-search__search",
-      "Skill(mx-finance-search)"
+      "Skill(mx-finance-search)",
+      "Bash(npx *)",
+      "Bash(claude plugin *)",
+      "Skill(mempalace)"
     ],
     "additionalDirectories": [
       "C:\\Users\\Eason\\IdeaProjects\\ExploreFinance\\.claude"

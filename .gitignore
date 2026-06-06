@@ -2,6 +2,7 @@
 .obsidian
 temp_download/
 miaoxiang/
+.remember/
 
 # Claude Code
 .claude/skills/.skills_store_lock.json
@@ -14,3 +15,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.log
+
+# MemPalace per-project files (issue #185)
+mempalace.yaml
+entities.json

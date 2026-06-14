@@ -5,6 +5,7 @@ miaoxiang/
 .remember/
 
 # Claude Code
+.claude/settings.local.json
 .claude/skills/.skills_store_lock.json
 .claude/skills/**/__MACOSX/
 .claude/skills/**/__pycache__/
